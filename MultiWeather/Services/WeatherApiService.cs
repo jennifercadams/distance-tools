@@ -1,4 +1,5 @@
-﻿using MultiWeather.Models.DTO;
+﻿using MultiWeather.Exceptions;
+using MultiWeather.Models.DTO;
 using MultiWeather.Models.WeatherApi;
 using System.Text.Json;
 
@@ -22,27 +23,39 @@ namespace MultiWeather.Services
             _apiKey = Environment.GetEnvironmentVariable("WEATHER_API_KEY") ?? "";
         }
 
-        public async Task<GetCurrentResponse> GetCurrentAsync(string locationQuery)
+        public async Task<List<GetCurrentResponse>> GetCurrentAsync(string[] locationQueries)
         {
-            var path = $"current.json?key={_apiKey}&q={locationQuery}";
+            var responseList = new List<GetCurrentResponse>();
 
-            var response = await _httpClient.GetAsync(path);
-
-            var responseBody = await response.Content.ReadAsStringAsync();
-            var currentResponse = JsonSerializer.Deserialize<CurrentResponse>(responseBody);
-
-            var getCurrentResponse = new GetCurrentResponse
+            foreach (var locationQuery in locationQueries)
             {
-                LocationName = currentResponse?.Location?.Name,
-                TimeZone = currentResponse?.Location?.TimeZone,
-                ConditionText = currentResponse?.Current?.Condition.Text,
-                ConditionIcon = currentResponse?.Current?.Condition.Icon,
-                TempC = currentResponse?.Current?.TempC,
-                TempF = currentResponse?.Current?.TempF,
-                Error = currentResponse?.Error
-            };
+                var path = $"current.json?key={_apiKey}&q={locationQuery}";
 
-            return getCurrentResponse;
+                var response = await _httpClient.GetAsync(path);
+                var responseBody = await response.Content.ReadAsStringAsync();
+                var currentResponse = JsonSerializer.Deserialize<CurrentResponse>(responseBody);
+
+                if (currentResponse?.Error != null && currentResponse.Error.Code != (int)ErrorCodes.LocationNotFound)
+                {
+                    throw new RequestFailedException();
+                }
+
+                var getCurrentResponse = new GetCurrentResponse
+                {
+                    LocationQuery = locationQuery,
+                    LocationFound = currentResponse?.Location != null,
+                    LocationName = currentResponse?.Location?.Name,
+                    TimeZone = currentResponse?.Location?.TimeZone,
+                    ConditionText = currentResponse?.Current?.Condition.Text,
+                    ConditionIcon = currentResponse?.Current?.Condition.Icon,
+                    TempC = currentResponse?.Current?.TempC,
+                    TempF = currentResponse?.Current?.TempF,
+                };
+
+                responseList.Add(getCurrentResponse);
+            }
+
+            return responseList;
         }
 
     }
