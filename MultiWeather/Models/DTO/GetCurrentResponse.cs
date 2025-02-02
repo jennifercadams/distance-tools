@@ -9,7 +9,8 @@ namespace MultiWeather.Models.DTO
         public string? TimeZone { get; set; }
         public string? ConditionText { get; set; }
         public string? ConditionIcon { get; set; }
-        public string? Temperature { get; set; }
+        public decimal? TempC { get; set; }
+        public decimal? TempF { get; set; }
 
         [JsonIgnore]
         public ErrorResponse? Error { get; set; }

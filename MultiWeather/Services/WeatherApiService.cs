@@ -31,13 +31,14 @@ namespace MultiWeather.Services
             var responseBody = await response.Content.ReadAsStringAsync();
             var currentResponse = JsonSerializer.Deserialize<CurrentResponse>(responseBody);
 
-            var getCurrentResponse = new GetCurrentResponse()
+            var getCurrentResponse = new GetCurrentResponse
             {
                 LocationName = currentResponse?.Location?.Name,
                 TimeZone = currentResponse?.Location?.TimeZone,
                 ConditionText = currentResponse?.Current?.Condition.Text,
                 ConditionIcon = currentResponse?.Current?.Condition.Icon,
-                Temperature = $"{currentResponse?.Current?.TempC}° C | {currentResponse?.Current?.TempF}° F",
+                TempC = currentResponse?.Current?.TempC,
+                TempF = currentResponse?.Current?.TempF,
                 Error = currentResponse?.Error
             };
 
