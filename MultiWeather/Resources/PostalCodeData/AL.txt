@@ -1,0 +1,494 @@
+AL	5001	Qender Berat	Qarku i Beratit	40	Bashkia Berat	10944368			40.7328	20.0394	4
+AL	5002	Berati 1	Qarku i Beratit	40	Bashkia Berat	10944368			40.7665	19.887	1
+AL	5003	Berati 2	Qarku i Beratit	40	Bashkia Berat	10944368			40.7665	19.887	1
+AL	5004	Berati 4	Qarku i Beratit	40	Bashkia Berat	10944368			40.7665	19.887	1
+AL	5005	Berati 5	Qarku i Beratit	40	Bashkia Berat	10944368			40.7665	19.887	1
+AL	5006	Berati 6	Qarku i Beratit	40	Bashkia Berat	10944368			40.7665	19.887	1
+AL	5007	Ura Vajgurore	Qarku i Beratit	40	Bashkia Berat	10944368			40.7689	19.8778	4
+AL	5008	Poshnje	Qarku i Beratit	40	Bashkia Berat	10944368			40.7803	19.8442	4
+AL	5009	Kutalli	Qarku i Beratit	40	Bashkia Berat	10944368			40.7839	19.7867	4
+AL	5010	Otllak	Qarku i Beratit	40	Bashkia Berat	10944368			40.7439	19.9353	4
+AL	5011	Sinje	Qarku i Beratit	40	Bashkia Berat	10944368			40.6468	19.8692	4
+AL	5012	Velabisht	Qarku i Beratit	40	Bashkia Berat	10944368			40.7017	19.9322	4
+AL	5013	Lumas	Qarku i Beratit	40	Bashkia Berat	10944368			40.6767	19.9511	1
+AL	5014	Roshnik	Qarku i Beratit	40	Bashkia Berat	10944368			40.7328	20.0394	4
+AL	5015	Terpan	Qarku i Beratit	40	Bashkia Berat	10944368			40.5522	20.0244	4
+AL	5016	Mbrakull	Qarku i Beratit	40	Bashkia Berat	10944368			40.6292	20.0667	4
+AL	5017	Vertop 1	Qarku i Beratit	40	Bashkia Berat	10944368			40.6767	19.9511	1
+AL	5018	Cukalat	Qarku i Beratit	40	Bashkia Berat	10944368			40.7303	19.7906	4
+AL	5019	Cukalat 1	Qarku i Beratit	40	Bashkia Berat	10944368			40.6767	19.9511	1
+AL	5020	Lapardha	Qarku i Beratit	40	Bashkia Berat	10944368			40.7547	19.9481	4
+AL	5021	Ura e Kucit	Qarku i Beratit	40	Bashkia Berat	10944368			40.789	19.884	1
+AL	5022	Syzez	Qarku i Beratit	40	Bashkia Berat	10944368			40.8233	19.8199	4
+AL	5301	Kucove Qender	Qarku i Beratit	40	Bashkia Kuçovë	10944369			40.8101	19.9075	1
+AL	5302	Kucove 2	Qarku i Beratit	40	Bashkia Kuçovë	10944369			40.8101	19.9075	1
+AL	5303	Kucove 3	Qarku i Beratit	40	Bashkia Kuçovë	10944369			40.8101	19.9075	1
+AL	5304	Kucove 4	Qarku i Beratit	40	Bashkia Kuçovë	10944369			40.8101	19.9075	1
+AL	5305	Kozare	Qarku i Beratit	40	Bashkia Kuçovë	10944369			40.8308	19.9006	4
+AL	5306	Perondi	Qarku i Beratit	40	Bashkia Kuçovë	10944369			40.7789	19.9231	4
+AL	5307	Gege	Qarku i Beratit	40	Bashkia Kuçovë	10944369			40.8369	19.9261	4
+AL	5308	Tapi	Qarku i Beratit	40	Bashkia Kuçovë	10944369			40.7936	19.8803	4
+AL	5401	Çorovode Qender	Qarku i Beratit	40	Bashkia Skrapar	10944371			40.5337	20.1974	1
+AL	5402	Çorovode 2	Qarku i Beratit	40	Bashkia Skrapar	10944371			40.5337	20.1974	1
+AL	5403	Polican 1	Qarku i Beratit	40	Bashkia Skrapar	10944371			40.5594	19.9522	4
+AL	5404	Polican 2	Qarku i Beratit	40	Bashkia Skrapar	10944371			40.5337	20.1974	1
+AL	5405	Bogove	Qarku i Beratit	40	Bashkia Skrapar	10944371			40.5711	20.15	4
+AL	5406	Cepan	Qarku i Beratit	40	Bashkia Skrapar	10944371			40.4206	20.2606	4
+AL	5407	Potom	Qarku i Beratit	40	Bashkia Skrapar	10944371			40.4883	20.3733	4
+AL	5408	Gjerbes	Qarku i Beratit	40	Bashkia Skrapar	10944371			40.6292	20.2511	4
+AL	5409	Vendresh	Qarku i Beratit	40	Bashkia Skrapar	10944371			40.5337	20.1974	1
+AL	5410	Konak	Qarku i Beratit	40	Bashkia Skrapar	10944371			40.6697	20.2392	4
+AL	5411	Verzhezh	Qarku i Beratit	40	Bashkia Skrapar	10944371			40.6031	20.2462	1
+AL	5412	Velush	Qarku i Beratit	40	Bashkia Skrapar	10944371			40.6031	20.2462	1
+AL	5413	Radesh	Qarku i Beratit	40	Bashkia Skrapar	10944371			40.5364	20.2533	4
+AL	8401	Qender Bulqize	Qarku i Dibrës	41	Bashkia Bulqizë	10944373			41.4904	20.3628	1
+AL	8402	Bulqiza 1	Qarku i Dibrës	41	Bashkia Bulqizë	10944373			41.4904	20.3628	1
+AL	8403	Martanesh/Kraste	Qarku i Dibrës	41	Bashkia Bulqizë	10944373			41.4228	20.205	4
+AL	8404	Shupenze	Qarku i Dibrës	41	Bashkia Bulqizë	10944373			41.53	20.4236	4
+AL	8405	Ostren	Qarku i Dibrës	41	Bashkia Bulqizë	10944373			41.4308	20.4556	4
+AL	8406	Zerqan	Qarku i Dibrës	41	Bashkia Bulqizë	10944373			41.5022	20.3606	4
+AL	8407	Gjorice	Qarku i Dibrës	41	Bashkia Bulqizë	10944373			41.5344	20.45	4
+AL	8408	Zyrat Postare Trebisht	Qarku i Dibrës	41	Bashkia Bulqizë	10944373			41.4904	20.3628	1
+AL	8409	Fushe-Bulqize	Qarku i Dibrës	41	Bashkia Bulqizë	10944373			41.5219	20.2822	4
+AL	8301	Peshkopi	Qarku i Dibrës	41	Bashkia Dibër	10944374			41.685	20.4289	4
+AL	8302	Maqellare	Qarku i Dibrës	41	Bashkia Dibër	10944374			41.5889	20.4831	4
+AL	8303	Melan	Qarku i Dibrës	41	Bashkia Dibër	10944374			41.6542	20.4653	4
+AL	8304	Tomin	Qarku i Dibrës	41	Bashkia Dibër	10944374			41.6908	20.4217	4
+AL	8305	Kastriot	Qarku i Dibrës	41	Bashkia Dibër	10944374			41.7294	20.3772	4
+AL	8306	Fushe-Cidhen	Qarku i Dibrës	41	Bashkia Dibër	10944374			41.7606	20.3411	4
+AL	8307	Sllove	Qarku i Dibrës	41	Bashkia Dibër	10944374			41.8011	20.4083	4
+AL	8308	Kala e Dodes	Qarku i Dibrës	41	Bashkia Dibër	10944374			41.8319	20.4603	4
+AL	8309	Zalle - Dardhe	Qarku i Dibrës	41	Bashkia Dibër	10944374			41.7177	20.4232	1
+AL	8310	Rec	Qarku i Dibrës	41	Bashkia Dibër	10944374			41.8761	20.32	4
+AL	8311	Arras	Qarku i Dibrës	41	Bashkia Dibër	10944374			41.7358	20.3242	4
+AL	8312	Lure	Qarku i Dibrës	41	Bashkia Dibër	10944374			41.714	20.3244	1
+AL	8313	Selishte	Qarku i Dibrës	41	Bashkia Dibër	10944374			41.6275	20.2792	4
+AL	8314	Luzni	Qarku i Dibrës	41	Bashkia Dibër	10944374			41.6508	20.3674	4
+AL	8315	Muhur	Qarku i Dibrës	41	Bashkia Dibër	10944374			41.6797	20.3314	4
+AL	8001	Burrel	Qarku i Dibrës	41	Bashkia Mat	10944376			41.6103	20.0089	4
+AL	8002	Klos	Qarku i Dibrës	41	Bashkia Mat	10944376			41.5069	20.0867	4
+AL	8003	Ulez (qytet)	Qarku i Dibrës	41	Bashkia Mat	10944376			41.57	20.0246	1
+AL	8004	Baz	Qarku i Dibrës	41	Bashkia Mat	10944376			41.6319	19.9292	4
+AL	8005	Komsi	Qarku i Dibrës	41	Bashkia Mat	10944376			41.5817	19.9856	4
+AL	8006	Gurre	Qarku i Dibrës	41	Bashkia Mat	10944376			41.57	20.0246	1
+AL	8007	Suç	Qarku i Dibrës	41	Bashkia Mat	10944376			41.5769	20.0514	4
+AL	8008	Xiber	Qarku i Dibrës	41	Bashkia Mat	10944376			41.4547	20.0256	4
+AL	8009	Lis	Qarku i Dibrës	41	Bashkia Mat	10944376			41.6275	20.0853	4
+AL	8010	Derjan	Qarku i Dibrës	41	Bashkia Mat	10944376			41.6736	20.0583	4
+AL	8011	Macukull	Qarku i Dibrës	41	Bashkia Mat	10944376			41.6886	20.1103	4
+AL	8012	Rukaj/Bruç	Qarku i Dibrës	41	Bashkia Mat	10944376			41.6922	20.0053	4
+AL	8013	Cerruje	Qarku i Dibrës	41	Bashkia Mat	10944376			41.5328	20.1319	4
+AL	8014	Bejn	Qarku i Dibrës	41	Bashkia Mat	10944376			41.5042	20.1169	4
+AL	2001	Durres Qender	Qarku i Durrësit	42	Bashkia Durrës	10944377			41.3239	19.467	1
+AL	2002	Durresi 1	Qarku i Durrësit	42	Bashkia Durrës	10944377			41.3239	19.467	1
+AL	2003	Durresi 2	Qarku i Durrësit	42	Bashkia Durrës	10944377			41.3239	19.467	1
+AL	2004	Durresi 3	Qarku i Durrësit	42	Bashkia Durrës	10944377			41.3239	19.467	1
+AL	2005	Durresi 4	Qarku i Durrësit	42	Bashkia Durrës	10944377			41.3239	19.467	1
+AL	2006	Durresi 5	Qarku i Durrësit	42	Bashkia Durrës	10944377			41.3239	19.467	1
+AL	2007	Shkozet	Qarku i Durrësit	42	Bashkia Durrës	10944377			41.3239	19.467	1
+AL	2008	Plazh	Qarku i Durrësit	42	Bashkia Durrës	10944377			41.3066	19.4902	4
+AL	2009	Spitalle	Qarku i Durrësit	42	Bashkia Durrës	10944377			41.3411	19.4439	4
+AL	2010	Sukth	Qarku i Durrësit	42	Bashkia Durrës	10944377			41.3806	19.5378	4
+AL	2011	Manze 1	Qarku i Durrësit	42	Bashkia Durrës	10944377			41.3959	19.5409	1
+AL	2012	Kulle	Qarku i Durrësit	42	Bashkia Durrës	10944377			41.4289	19.5608	4
+AL	2013	Shijak	Qarku i Durrësit	42	Bashkia Durrës	10944377			41.3456	19.5672	4
+AL	2014	Shijak/1	Qarku i Durrësit	42	Bashkia Durrës	10944377			41.3959	19.5409	1
+AL	2015	Ishem	Qarku i Durrësit	42	Bashkia Durrës	10944377			41.5453	19.6	4
+AL	2016	Draç	Qarku i Durrësit	42	Bashkia Durrës	10944377			41.3235	19.4547	4
+AL	2017	Katundi i Ri	Qarku i Durrësit	42	Bashkia Durrës	10944377			41.4031	19.5181	4
+AL	2018	4 Rruget e Shijakut	Qarku i Durrësit	42	Bashkia Durrës	10944377			41.3959	19.5409	1
+AL	2019	Xhafzotaj	Qarku i Durrësit	42	Bashkia Durrës	10944377			41.3444	19.5475	4
+AL	2020	Maminas	Qarku i Durrësit	42	Bashkia Durrës	10944377			41.3792	19.6075	4
+AL	2021	Rrashbull	Qarku i Durrësit	42	Bashkia Durrës	10944377			41.3228	19.5103	4
+AL	2022	Gjepalaj	Qarku i Durrësit	42	Bashkia Durrës	10944377			41.3331	19.5781	4
+AL	1501	Kruja	Qarku i Durrësit	42	Bashkia Krujë	10944378			41.5092	19.7928	4
+AL	1502	Fushe Kruje	Qarku i Durrësit	42	Bashkia Krujë	10944378			41.5047	19.7234	1
+AL	1503	Thumane	Qarku i Durrësit	42	Bashkia Krujë	10944378			41.5475	19.6778	4
+AL	1504	Nikel	Qarku i Durrësit	42	Bashkia Krujë	10944378			41.4442	19.7483	4
+AL	1505	Bubq	Qarku i Durrësit	42	Bashkia Krujë	10944378			41.4742	19.6517	4
+AL	1506	Thumane	Qarku i Durrësit	42	Bashkia Krujë	10944378			41.5475	19.6778	4
+AL	1507	Sukth	Qarku i Durrësit	42	Bashkia Krujë	10944378			41.5264	19.6231	4
+AL	1508	Bruz	Qarku i Durrësit	42	Bashkia Krujë	10944378			41.4839	19.8922	4
+AL	3001	Elbasan 1	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			41.0433	19.9515	1
+AL	3002	Elbasan 2	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			41.0433	19.9515	1
+AL	3003	Elbasan 3	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			41.0433	19.9515	1
+AL	3004	Elbasan 4	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			41.0433	19.9515	1
+AL	3005	Elbasan 5	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			41.0433	19.9515	1
+AL	3006	Elbasan 6	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			41.0433	19.9515	1
+AL	3007	Cerrik	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			41.05	19.95	4
+AL	3008	Belsh	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			40.975	19.8819	4
+AL	3009	Bradashesh	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			41.105	20.0225	4
+AL	3010	Labinot Fushe	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			41.0417	20.0532	1
+AL	3011	Shirgjan	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			41.0519	20.0533	4
+AL	3012	Gracen	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			41.1519	19.9636	4
+AL	3013	Funar	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			41.1964	20.0597	4
+AL	3014	Gjinar	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			41.0225	20.1889	4
+AL	3015	Zavaline	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			40.9808	20.2808	4
+AL	3016	Paper	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			41.0517	19.9608	4
+AL	3017	Shales	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			40.9986	19.9478	4
+AL	3018	Gostime	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			40.9947	20.0203	4
+AL	3019	Mollas	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			40.9269	20.0036	4
+AL	3020	Klos	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			40.9461	20.0097	4
+AL	3021	Grekan	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			40.9333	19.95	4
+AL	3022	Kajan	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			40.9142	19.8894	4
+AL	3023	Fierze	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			40.9206	19.8469	4
+AL	3024	Labinot Mal	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			40.9828	19.9932	1
+AL	3025	Shushice	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			41.0975	20.1483	4
+AL	3026	Tregan	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			41.0247	20.0783	4
+AL	3027	Gjergjan	Qarku i Elbasanit	43	Bashkia Elbasan	10944380			41.0431	20.0297	4
+AL	3401	Librazhd 1	Qarku i Elbasanit	43	Bashkia Librazhd	10944384			41.0958	20.4206	1
+AL	3402	Librazhd 2	Qarku i Elbasanit	43	Bashkia Librazhd	10944384			41.0958	20.4206	1
+AL	3403	Prrenjas 1	Qarku i Elbasanit	43	Bashkia Librazhd	10944384			41.0958	20.4206	1
+AL	3404	Prrenjas 2	Qarku i Elbasanit	43	Bashkia Librazhd	10944384			41.0958	20.4206	1
+AL	3405	Rrajce	Qarku i Elbasanit	43	Bashkia Librazhd	10944384			41.0903	20.5764	4
+AL	3406	Stravaj	Qarku i Elbasanit	43	Bashkia Librazhd	10944384			41.0053	20.4231	4
+AL	3407	Qukes	Qarku i Elbasanit	43	Bashkia Librazhd	10944384			41.0933	20.4478	4
+AL	3408	Hotolisht	Qarku i Elbasanit	43	Bashkia Librazhd	10944384			41.1567	20.3972	4
+AL	3409	Polis	Qarku i Elbasanit	43	Bashkia Librazhd	10944384			41.1333	20.2583	4
+AL	3410	Lunik	Qarku i Elbasanit	43	Bashkia Librazhd	10944384			41.2892	20.3236	4
+AL	3411	Komune Qender	Qarku i Elbasanit	43	Bashkia Librazhd	10944384			41.1811	20.4363	1
+AL	3412	Stebleve	Qarku i Elbasanit	43	Bashkia Librazhd	10944384			41.1811	20.4363	1
+AL	3413	Prrenjas	Qarku i Elbasanit	43	Bashkia Librazhd	10944384			41.0731	20.5489	4
+AL	9301	Fier Qender	Qarku i Fierit	44	Bashkia Fier	10944388			40.7334	19.5954	1
+AL	9302	Fier 1	Qarku i Fierit	44	Bashkia Fier	10944388			40.7334	19.5954	1
+AL	9303	Fier 2	Qarku i Fierit	44	Bashkia Fier	10944388			40.9017	19.4267	4
+AL	9304	Fier 3	Qarku i Fierit	44	Bashkia Fier	10944388			40.7334	19.5954	1
+AL	9305	Fier 4	Qarku i Fierit	44	Bashkia Fier	10944388			40.7334	19.5954	1
+AL	9306	Roskovec	Qarku i Fierit	44	Bashkia Fier	10944388			40.7375	19.7022	4
+AL	9307	Patos	Qarku i Fierit	44	Bashkia Fier	10944388			40.6833	19.6194	4
+AL	9308	Ballsh	Qarku i Fierit	44	Bashkia Fier	10944388			40.5989	19.7347	4
+AL	9309	Deremenas	Qarku i Fierit	44	Bashkia Fier	10944388			40.7456	19.4939	4
+AL	9310	Libofshe	Qarku i Fierit	44	Bashkia Fier	10944388			40.8344	19.5522	4
+AL	9311	Cakran	Qarku i Fierit	44	Bashkia Fier	10944388			40.6033	19.6261	4
+AL	9312	Ruzhdie	Qarku i Fierit	44	Bashkia Fier	10944388			40.6708	19.6983	4
+AL	9313	Frakull	Qarku i Fierit	44	Bashkia Fier	10944388			40.7099	19.6388	1
+AL	9314	Levan	Qarku i Fierit	44	Bashkia Fier	10944388			40.6761	19.4897	4
+AL	9315	Kuman	Qarku i Fierit	44	Bashkia Fier	10944388			40.7267	19.6867	4
+AL	9316	Kurjan	Qarku i Fierit	44	Bashkia Fier	10944388			40.7175	19.7456	4
+AL	9317	Zharez	Qarku i Fierit	44	Bashkia Fier	10944388			40.7099	19.6388	1
+AL	9318	Portez	Qarku i Fierit	44	Bashkia Fier	10944388			40.6992	19.5744	4
+AL	9319	Strum	Qarku i Fierit	44	Bashkia Fier	10944388			40.7511	19.7375	4
+AL	9320	Suk	Qarku i Fierit	44	Bashkia Fier	10944388			40.6457	19.6338	1
+AL	9321	Ngjeqar	Qarku i Fierit	44	Bashkia Fier	10944388			40.6733	19.79	4
+AL	9322	Fier-Ferme	Qarku i Fierit	44	Bashkia Fier	10944388			40.6457	19.6338	1
+AL	9323	Povelce	Qarku i Fierit	44	Bashkia Fier	10944388			40.7289	19.4208	4
+AL	9324	Kreshpan	Qarku i Fierit	44	Bashkia Fier	10944388			40.6294	19.5843	4
+AL	9325	Buzemadh	Qarku i Fierit	44	Bashkia Fier	10944388			40.5814	19.6131	4
+AL	9326	Seman	Qarku i Fierit	44	Bashkia Fier	10944388			40.7911	19.4551	4
+AL	9327	Verri	Qarku i Fierit	44	Bashkia Fier	10944388			40.7881	19.6242	4
+AL	9328	Fratar	Qarku i Fierit	44	Bashkia Fier	10944388			40.5	19.8167	4
+AL	9329	Kute	Qarku i Fierit	44	Bashkia Fier	10944388			40.4733	19.7664	4
+AL	9330	Aranitas	Qarku i Fierit	44	Bashkia Fier	10944388			40.5944	19.8067	4
+AL	9331	Greshice	Qarku i Fierit	44	Bashkia Fier	10944388			40.5519	19.7783	4
+AL	9332	Hekal	Qarku i Fierit	44	Bashkia Fier	10944388			40.5619	19.7358	4
+AL	9333	Dukas	Qarku i Fierit	44	Bashkia Fier	10944388			40.6075	19.7278	4
+AL	9334	Ngracan	Qarku i Fierit	44	Bashkia Fier	10944388			40.6444	19.7925	4
+AL	9335	Selite	Qarku i Fierit	44	Bashkia Fier	10944388			40.5475	19.8481	4
+AL	9001	Lushnje Qender	Qarku i Fierit	44	Bashkia Lushnje	10944389			40.8982	19.6865	1
+AL	9002	Karbunare e Vogel	Qarku i Fierit	44	Bashkia Lushnje	10944389			40.9219	19.7178	4
+AL	9003	Saver (agjent postar)	Qarku i Fierit	44	Bashkia Lushnje	10944389			40.8982	19.6865	1
+AL	9004	Remas	Qarku i Fierit	44	Bashkia Lushnje	10944389			40.8864	19.5114	4
+AL	9005	Allkaj	Qarku i Fierit	44	Bashkia Lushnje	10944389			40.8575	19.7553	4
+AL	9006	Krutje	Qarku i Fierit	44	Bashkia Lushnje	10944389			40.8982	19.6865	1
+AL	9007	Kolonje	Qarku i Fierit	44	Bashkia Lushnje	10944389			40.8242	19.6039	4
+AL	9008	Karbunare e Madhe	Qarku i Fierit	44	Bashkia Lushnje	10944389			40.9275	19.7408	4
+AL	9009	Hysgjokaj	Qarku i Fierit	44	Bashkia Lushnje	10944389			40.9717	19.7897	4
+AL	9010	Dushk	Qarku i Fierit	44	Bashkia Lushnje	10944389			40.9002	19.6344	1
+AL	9011	Grabijan	Qarku i Fierit	44	Bashkia Lushnje	10944389			40.9531	19.5808	4
+AL	9012	Golem	Qarku i Fierit	44	Bashkia Lushnje	10944389			40.9678	19.6853	4
+AL	9013	Fiershegan	Qarku i Fierit	44	Bashkia Lushnje	10944389			40.9002	19.6344	1
+AL	9014	Gradishte	Qarku i Fierit	44	Bashkia Lushnje	10944389			40.8881	19.5858	4
+AL	9015	Terbuf	Qarku i Fierit	44	Bashkia Lushnje	10944389			41.04	19.6142	4
+AL	9016	Bubullime	Qarku i Fierit	44	Bashkia Lushnje	10944389			40.8181	19.6408	4
+AL	9017	Ballagat	Qarku i Fierit	44	Bashkia Lushnje	10944389			40.9953	19.7653	4
+AL	9018	Pluk	Qarku i Fierit	44	Bashkia Lushnje	10944389			40.6806	19.5683	4
+AL	9019	Gorre	Qarku i Fierit	44	Bashkia Lushnje	10944389			40.8589	19.6347	4
+AL	9020	Kashte Bardhe	Qarku i Fierit	44	Bashkia Lushnje	10944389			40.9446	19.5814	1
+AL	9021	Kemishtaj	Qarku i Fierit	44	Bashkia Lushnje	10944389			40.8925	19.6333	4
+AL	9022	Divjake	Qarku i Fierit	44	Bashkia Lushnje	10944389			40.9967	19.5294	4
+AL	6001	Qender	Qarku i Gjirokastrës	45	Bashkia Gjirokastër	10944394			40.2094	20.4183	4
+AL	6002	Gjirokastra 1	Qarku i Gjirokastrës	45	Bashkia Gjirokastër	10944394			40.0776	20.2504	1
+AL	6003	Libohove	Qarku i Gjirokastrës	45	Bashkia Gjirokastër	10944394			40.0311	20.2631	4
+AL	6004	Lazarat	Qarku i Gjirokastrës	45	Bashkia Gjirokastër	10944394			40.0467	20.1475	4
+AL	6005	Sofratike	Qarku i Gjirokastrës	45	Bashkia Gjirokastër	10944394			39.9922	20.2133	4
+AL	6006	Vrisera	Qarku i Gjirokastrës	45	Bashkia Gjirokastër	10944394			39.8958	20.3456	4
+AL	6007	Polican	Qarku i Gjirokastrës	45	Bashkia Gjirokastër	10944394			40.13	20.3503	4
+AL	6008	Erind	Qarku i Gjirokastrës	45	Bashkia Gjirokastër	10944394			40.1569	20.1636	4
+AL	6009	Palokaster	Qarku i Gjirokastrës	45	Bashkia Gjirokastër	10944394			40.1586	20.1014	4
+AL	6010	Dervican	Qarku i Gjirokastrës	45	Bashkia Gjirokastër	10944394			40.0325	20.1733	4
+AL	6011	Jorgucat	Qarku i Gjirokastrës	45	Bashkia Gjirokastër	10944394			39.9353	20.2636	4
+AL	6012	Nivan	Qarku i Gjirokastrës	45	Bashkia Gjirokastër	10944394			40.1797	20.2903	4
+AL	6013	Valare	Qarku i Gjirokastrës	45	Bashkia Gjirokastër	10944394			40.1256	20.1342	4
+AL	6014	Ura e Kardhiqit	Qarku i Gjirokastrës	45	Bashkia Gjirokastër	10944394			40.0905	20.1925	1
+AL	6015	Labove	Qarku i Gjirokastrës	45	Bashkia Gjirokastër	10944394			40.0905	20.1925	1
+AL	6016	Suhe	Qarku i Gjirokastrës	45	Bashkia Gjirokastër	10944394			40.0722	20.2558	4
+AL	6017	Antigone	Qarku i Gjirokastrës	45	Bashkia Gjirokastër	10944394			40.0905	20.1925	1
+AL	6018	Dhoksat	Qarku i Gjirokastrës	45	Bashkia Gjirokastër	10944394			40.1217	20.1822	4
+AL	6019	Picar	Qarku i Gjirokastrës	45	Bashkia Gjirokastër	10944394			40.1667	20.0483	4
+AL	7401	Qender Ersek	Qarku i Korçës	46	Bashkia Kolonjë	10944401			40.364	20.6085	1
+AL	7402	Qender Leskovik	Qarku i Korçës	46	Bashkia Kolonjë	10944401			40.364	20.6085	1
+AL	7403	Mollas	Qarku i Korçës	46	Bashkia Kolonjë	10944401			40.4256	20.6744	4
+AL	7404	Barmash	Qarku i Korçës	46	Bashkia Kolonjë	10944401			40.2778	20.6183	4
+AL	7405	Novosele	Qarku i Korçës	46	Bashkia Kolonjë	10944401			40.335	20.5908	4
+AL	7406	Clirim	Qarku i Korçës	46	Bashkia Kolonjë	10944401			40.4175	20.5503	4
+AL	7001	Qender	Qarku i Korçës	46	Bashkia Korçë	10944402			40.5884	20.942	1
+AL	7002	Korca 1	Qarku i Korçës	46	Bashkia Korçë	10944402			40.5884	20.942	1
+AL	7003	Korca 2	Qarku i Korçës	46	Bashkia Korçë	10944402			40.5884	20.942	1
+AL	7004	Korca 3	Qarku i Korçës	46	Bashkia Korçë	10944402			40.5884	20.942	1
+AL	7005	Qender Maliq	Qarku i Korçës	46	Bashkia Korçë	10944402			40.5884	20.942	1
+AL	7006	Qender Bilisht	Qarku i Korçës	46	Bashkia Korçë	10944402			40.5884	20.942	1
+AL	7007	Miras	Qarku i Korçës	46	Bashkia Korçë	10944402			40.5092	20.9283	4
+AL	7008	Bitincke	Qarku i Korçës	46	Bashkia Korçë	10944402			40.6478	20.9836	4
+AL	7009	Hocisht	Qarku i Korçës	46	Bashkia Korçë	10944402			40.6083	20.9142	4
+AL	7010	Fitore	Qarku i Korçës	46	Bashkia Korçë	10944402			40.5533	20.9522	4
+AL	7011	Proger	Qarku i Korçës	46	Bashkia Korçë	10944402			40.6942	20.9403	4
+AL	7012	Vishocice	Qarku i Korçës	46	Bashkia Korçë	10944402			40.5964	20.9967	4
+AL	7013	Bulgarec	Qarku i Korçës	46	Bashkia Korçë	10944402			40.663	20.7943	1
+AL	7014	Pojan	Qarku i Korçës	46	Bashkia Korçë	10944402			40.7258	20.8375	4
+AL	7015	Plase	Qarku i Korçës	46	Bashkia Korçë	10944402			40.6856	20.8442	4
+AL	7016	Pirg	Qarku i Korçës	46	Bashkia Korçë	10944402			40.785	20.7061	4
+AL	7017	Mollaj	Qarku i Korçës	46	Bashkia Korçë	10944402			40.5603	20.7403	4
+AL	7018	Moglice	Qarku i Korçës	46	Bashkia Korçë	10944402			40.7075	20.3947	4
+AL	7019	Lumalas	Qarku i Korçës	46	Bashkia Korçë	10944402			40.6586	20.7364	4
+AL	7020	Liqenas	Qarku i Korçës	46	Bashkia Korçë	10944402			40.7867	20.9022	4
+AL	7021	Libonik	Qarku i Korçës	46	Bashkia Korçë	10944402			40.7044	20.7086	4
+AL	7022	Lekas	Qarku i Korçës	46	Bashkia Korçë	10944402			40.6022	20.5125	4
+AL	7023	Drenove	Qarku i Korçës	46	Bashkia Korçë	10944402			40.5833	20.7922	4
+AL	7024	Dishnice	Qarku i Korçës	46	Bashkia Korçë	10944402			40.6514	20.8136	4
+AL	7025	Vithkuq	Qarku i Korçës	46	Bashkia Korçë	10944402			40.525	20.5825	4
+AL	7026	Voskop	Qarku i Korçës	46	Bashkia Korçë	10944402			40.6119	20.6903	4
+AL	7027	Zvarisht	Qarku i Korçës	46	Bashkia Korçë	10944402			40.7236	20.565	4
+AL	7028	Vreshtas	Qarku i Korçës	46	Bashkia Korçë	10944402			40.7969	20.7769	4
+AL	7029	Voskopoje	Qarku i Korçës	46	Bashkia Korçë	10944402			40.6331	20.5889	4
+AL	7301	Qender Pogradec	Qarku i Korçës	46	Bashkia Pogradec	10944404			40.9086	20.6264	1
+AL	7302	Pogradec 1	Qarku i Korçës	46	Bashkia Pogradec	10944404			40.9086	20.6264	1
+AL	7303	Pogradec 2	Qarku i Korçës	46	Bashkia Pogradec	10944404			40.9086	20.6264	1
+AL	7304	Bucimas	Qarku i Korçës	46	Bashkia Pogradec	10944404			40.8914	20.6814	4
+AL	7305	Udenisht	Qarku i Korçës	46	Bashkia Pogradec	10944404			40.9633	20.6392	4
+AL	7306	Cerrave	Qarku i Korçës	46	Bashkia Pogradec	10944404			40.8514	20.725	4
+AL	7307	Trebinje	Qarku i Korçës	46	Bashkia Pogradec	10944404			40.9133	20.5531	4
+AL	7308	Proptisht	Qarku i Korçës	46	Bashkia Pogradec	10944404			40.9861	20.5025	4
+AL	7309	Dardhas	Qarku i Korçës	46	Bashkia Pogradec	10944404			40.8458	20.6572	4
+AL	7310	Velçan	Qarku i Korçës	46	Bashkia Pogradec	10944404			40.9547	20.4622	4
+AL	8601	Qender	Qarku i Kukësit	47	Bashkia Has	10944406			42.1775	20.389	1
+AL	8602	Krume 1	Qarku i Kukësit	47	Bashkia Has	10944406			42.1775	20.389	1
+AL	8603	Golaj	Qarku i Kukësit	47	Bashkia Has	10944406			42.2475	20.3803	4
+AL	8604	Fajza	Qarku i Kukësit	47	Bashkia Has	10944406			42.1669	20.3508	4
+AL	8605	Gjinaj	Qarku i Kukësit	47	Bashkia Has	10944406			42.1181	20.4358	4
+AL	8501	Qender	Qarku i Kukësit	47	Bashkia Kukës	10944407			41.94	20.3903	1
+AL	8502	Kukes 2	Qarku i Kukësit	47	Bashkia Kukës	10944407			42.1064	20.5053	4
+AL	8503	Kukes 3	Qarku i Kukësit	47	Bashkia Kukës	10944407			41.94	20.3903	1
+AL	8504	Bicaj	Qarku i Kukësit	47	Bashkia Kukës	10944407			41.9947	20.4125	4
+AL	8505	Ujmisht	Qarku i Kukësit	47	Bashkia Kukës	10944407			41.9083	20.3469	4
+AL	8506	Bushtrice	Qarku i Kukësit	47	Bashkia Kukës	10944407			41.8786	20.4219	4
+AL	8507	Gryk-Caje	Qarku i Kukësit	47	Bashkia Kukës	10944407			41.94	20.3903	1
+AL	8508	Kalis	Qarku i Kukësit	47	Bashkia Kukës	10944407			41.8389	20.3667	4
+AL	8509	Arren	Qarku i Kukësit	47	Bashkia Kukës	10944407			41.9131	20.2883	4
+AL	8510	Surroj	Qarku i Kukësit	47	Bashkia Kukës	10944407			41.9922	20.3442	4
+AL	8511	Kolsh	Qarku i Kukësit	47	Bashkia Kukës	10944407			42.0781	20.3419	4
+AL	8512	Shemri	Qarku i Kukësit	47	Bashkia Kukës	10944407			42.1042	20.2383	4
+AL	8513	Shtiqen	Qarku i Kukësit	47	Bashkia Kukës	10944407			42.0406	20.4342	4
+AL	8514	Bardhoc	Qarku i Kukësit	47	Bashkia Kukës	10944407			42.1064	20.5053	4
+AL	8515	Zapod	Qarku i Kukësit	47	Bashkia Kukës	10944407			42.0506	20.5525	4
+AL	8516	Topojan	Qarku i Kukësit	47	Bashkia Kukës	10944407			41.9847	20.5222	4
+AL	8517	Shishtavec	Qarku i Kukësit	47	Bashkia Kukës	10944407			41.98	20.6058	4
+AL	8518	Novosej	Qarku i Kukësit	47	Bashkia Kukës	10944407			41.9828	20.5881	4
+AL	8519	Borje	Qarku i Kukësit	47	Bashkia Kukës	10944407			42.0153	20.5864	4
+AL	8520	Dogana |Morine	Qarku i Kukësit	47	Bashkia Kukës	10944407			41.9984	20.4413	1
+AL	8701	Qender	Qarku i Kukësit	47	Bashkia Tropojë	10944408			42.324	20.0777	1
+AL	8702	Bajram Curri	Qarku i Kukësit	47	Bashkia Tropojë	10944408			42.3573	20.0768	4
+AL	8703	Tropoje	Qarku i Kukësit	47	Bashkia Tropojë	10944408			42.3597	20.0698	4
+AL	8704	Fierze	Qarku i Kukësit	47	Bashkia Tropojë	10944408			42.324	20.0777	1
+AL	8705	Pac	Qarku i Kukësit	47	Bashkia Tropojë	10944408			42.2643	20.2028	4
+AL	8706	Bujan	Qarku i Kukësit	47	Bashkia Tropojë	10944408			42.3264	20.0764	4
+AL	8706	Lekbibaj	Qarku i Kukësit	47	Bashkia Tropojë	10944408			42.2947	19.9317	4
+AL	8706	Llugaj	Qarku i Kukësit	47	Bashkia Tropojë	10944408			42.3414	20.1086	4
+AL	8706	Margegaj	Qarku i Kukësit	47	Bashkia Tropojë	10944408			42.3208	20.0389	3
+AL	8707	Dogan MorineTropoje	Qarku i Kukësit	47	Bashkia Tropojë	10944408			42.324	20.0777	1
+AL	4701	Qender Lac	Qarku i Lezhës	48	Bashkia Kurbin	10944409			41.6276	19.708	1
+AL	4702	Qender Lac 2	Qarku i Lezhës	48	Bashkia Kurbin	10944409			41.6276	19.708	1
+AL	4703	Sanxhak	Qarku i Lezhës	48	Bashkia Kurbin	10944409			41.6214	19.7161	4
+AL	4704	Mamuras	Qarku i Lezhës	48	Bashkia Kurbin	10944409			41.5775	19.6922	4
+AL	4705	Milot	Qarku i Lezhës	48	Bashkia Kurbin	10944409			41.6839	19.7156	4
+AL	4706	Fushe Kuqe	Qarku i Lezhës	48	Bashkia Kurbin	10944409			41.6276	19.708	1
+AL	4501	Qendre Lezhe	Qarku i Lezhës	48	Bashkia Lezhë	10944410			41.8372	19.6563	1
+AL	4502	Lezhe 1/Pensionet	Qarku i Lezhës	48	Bashkia Lezhë	10944410			41.8372	19.6563	1
+AL	4503	Shengjin	Qarku i Lezhës	48	Bashkia Lezhë	10944410			41.8136	19.5939	4
+AL	4504	Balldre	Qarku i Lezhës	48	Bashkia Lezhë	10944410			41.8094	19.6347	4
+AL	4505	Blinisht	Qarku i Lezhës	48	Bashkia Lezhë	10944410			41.8822	19.6369	4
+AL	4506	Dajc	Qarku i Lezhës	48	Bashkia Lezhë	10944410			41.9156	19.6044	4
+AL	4507	Kallmet	Qarku i Lezhës	48	Bashkia Lezhë	10944410			41.8489	19.6869	4
+AL	4508	Ungrej	Qarku i Lezhës	48	Bashkia Lezhë	10944410			41.8753	19.7947	4
+AL	4509	Rrile	Qarku i Lezhës	48	Bashkia Lezhë	10944410			41.7156	19.6422	4
+AL	4510	Zejmen	Qarku i Lezhës	48	Bashkia Lezhë	10944410			41.7078	19.6892	4
+AL	4511	Shenkoll	Qarku i Lezhës	48	Bashkia Lezhë	10944410			41.6908	19.6533	4
+AL	4601	Rreshen	Qarku i Lezhës	48	Bashkia Mirditë	10944411			41.7675	19.8756	4
+AL	4602	Rreshen 1	Qarku i Lezhës	48	Bashkia Mirditë	10944411			41.8172	19.9109	1
+AL	4603	Rubik	Qarku i Lezhës	48	Bashkia Mirditë	10944411			41.7744	19.7861	4
+AL	4604	Selite	Qarku i Lezhës	48	Bashkia Mirditë	10944411			41.8172	19.9109	1
+AL	4605	Orosh	Qarku i Lezhës	48	Bashkia Mirditë	10944411			41.8333	20.0833	4
+AL	4606	Kthelle	Qarku i Lezhës	48	Bashkia Mirditë	10944411			41.8172	19.9109	1
+AL	4607	Kacinar	Qarku i Lezhës	48	Bashkia Mirditë	10944411			41.8933	19.8986	4
+AL	4608	Fan	Qarku i Lezhës	48	Bashkia Mirditë	10944411			41.8172	19.9109	1
+AL	4301	Koplik	Qarku i Shkodrës	49	Bashkia Malësi e Madhe	10944413			42.2283	19.4667	4
+AL	4302	Gruemire	Qarku i Shkodrës	49	Bashkia Malësi e Madhe	10944413			42.2008	19.4792	4
+AL	4303	Grizhe	Qarku i Shkodrës	49	Bashkia Malësi e Madhe	10944413			42.2667	19.4667	4
+AL	4304	Tamare	Qarku i Shkodrës	49	Bashkia Malësi e Madhe	10944413			42.4631	19.5622	4
+AL	4305	Dedaj	Qarku i Shkodrës	49	Bashkia Malësi e Madhe	10944413			42.2947	19.5411	4
+AL	4306	Bajze	Qarku i Shkodrës	49	Bashkia Malësi e Madhe	10944413			42.2853	19.4378	4
+AL	4401	Puke	Qarku i Shkodrës	49	Bashkia Pukë	10944414			42.0444	19.8997	4
+AL	4402	Fushe-Arrez	Qarku i Shkodrës	49	Bashkia Pukë	10944414			42.0622	20.0167	4
+AL	4403	Iballe	Qarku i Shkodrës	49	Bashkia Pukë	10944414			42.1875	20.0025	4
+AL	4404	Blerim	Qarku i Shkodrës	49	Bashkia Pukë	10944414			42.1606	20.1919	4
+AL	4405	Qelez	Qarku i Shkodrës	49	Bashkia Pukë	10944414			42.0897	19.895	4
+AL	4406	Qafe Mali	Qarku i Shkodrës	49	Bashkia Pukë	10944414			42.0933	20.0906	4
+AL	4407	Rrape (agjent postar)	Qarku i Shkodrës	49	Bashkia Pukë	10944414			42.0749	19.9939	1
+AL	4408	Gjegjan	Qarku i Shkodrës	49	Bashkia Pukë	10944414			41.9378	20.0111	4
+AL	4409	Luf	Qarku i Shkodrës	49	Bashkia Pukë	10944414			42.0236	19.8436	4
+AL	4001	Qender	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			42.2125	19.437	4
+AL	4002	Shkoder 1	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			42.1113	19.5309	1
+AL	4003	Shkoder 2	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			42.1113	19.5309	1
+AL	4004	Shkoder 3	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			42.1113	19.5309	1
+AL	4005	Shkoder 4	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			42.1113	19.5309	1
+AL	4006	Shkoder 5	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			42.1113	19.5309	1
+AL	4007	Shkoder 6	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			42.1113	19.5309	1
+AL	4008	Vau i Dejes	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			42.01	19.6247	4
+AL	4009	Dukagjin	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			42.1113	19.5309	1
+AL	4010	Pult (agjent postar)	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			42.0447	19.5028	1
+AL	4011	Shosh (agjent postar)	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			42.0447	19.5028	1
+AL	4012	Mes	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			42.1053	19.5708	4
+AL	4013	Koman (agjent postar)	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			42.0447	19.5028	1
+AL	4014	Shllak (agjent postar)	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			42.0447	19.5028	1
+AL	4015	Dobrac	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			42.0822	19.5297	4
+AL	4016	Guri i ZI	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			42.045	19.5747	4
+AL	4017	Oblike	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			42.0289	19.4492	4
+AL	4018	Berdice	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			42.0153	19.4817	4
+AL	4019	Dajc	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			41.9917	19.4106	4
+AL	4020	Velipoje	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			41.8783	19.4056	4
+AL	4021	Bushat	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			41.9597	19.5342	4
+AL	4022	Barbullush	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			41.9264	19.55	4
+AL	4023	Ashte (agjent postar)	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			41.9503	19.5545	1
+AL	4024	Stajke	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			41.9872	19.5872	4
+AL	4025	Rranza (agjent postar)	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			41.9503	19.5545	1
+AL	4026	Mjede	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			41.9969	19.6125	4
+AL	4027	Kace (agjent postar)	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			41.9503	19.5545	1
+AL	4028	Mnele-Vig (agjent postar)	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			41.9503	19.5545	1
+AL	4029	Hajmel	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			41.9531	19.6378	4
+AL	4030	Fierze	Qarku i Shkodrës	49	Bashkia Shkodër	10944415			42.2606	20.0169	4
+AL	1029	Tirana Kamez	Tirana	50	Bashkia Kamëz	10944417			41.3247	19.7974	1
+AL	1030	Kamez	Tirana	50	Bashkia Kamëz	10944417			41.3817	19.7603	4
+AL	1031	Tirane 11	Tirana	50	Bashkia Kamëz	10944417			41.3073	19.7359	1
+AL	1047	Babrru	Tirana	50	Bashkia Kamëz	10944417			41.3542	19.8292	4
+AL	1054	Bathore	Tirana	50	Bashkia Kamëz	10944417			41.3778	19.7617	4
+AL	2501	Kavaja Qender	Tirana	50	Bashkia Kavajë	10944418			41.1443	19.6008	1
+AL	2502	Kavaja 1	Tirana	50	Bashkia Kavajë	10944418			41.1443	19.6008	1
+AL	2503	Rrogozhine	Tirana	50	Bashkia Kavajë	10944418			41.0764	19.6653	4
+AL	2504	Golem	Tirana	50	Bashkia Kavajë	10944418			41.2417	19.5844	4
+AL	2505	Synej	Tirana	50	Bashkia Kavajë	10944418			41.18	19.5425	4
+AL	2506	Helmas	Tirana	50	Bashkia Kavajë	10944418			41.1803	19.6069	4
+AL	2507	Lekaj	Tirana	50	Bashkia Kavajë	10944418			41.1144	19.6097	4
+AL	2508	Gose	Tirana	50	Bashkia Kavajë	10944418			41.09	19.6231	4
+AL	2509	Luz i Vogel	Tirana	50	Bashkia Kavajë	10944418			41.1275	19.5739	4
+AL	2510	Kryevidh	Tirana	50	Bashkia Kavajë	10944418			41.1006	19.5275	4
+AL	2511	Sinaballaj	Tirana	50	Bashkia Kavajë	10944418			41.0689	19.6994	4
+AL	1001	Tirana 5	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1002	Tirana 26	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1003	Tirana 13	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1004	Tirana 18	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1005	Tirana 14 (22)	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1006	Tirana 22	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1007	Tirana 10	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1008	Tirana 30	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1009	Tirana 46	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1010	Tirana 1, 29	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1011	Tirana 29	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1012	Tirana 19	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1013	Tirana 24	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1014	Tirana 27	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1015	Tirana 32	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1016	Tirana 4	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1017	Tirana 3, 31	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1018	Tirana 31	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1019	Tirana 8	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1020	Tirana 8/1, 33	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1020	Tirana 8/1, 8/2, 33	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1021	Tirana 8/2	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1022	Tirana 33	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1023	Tirana 9, 21	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1024	Tirana 21	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1025	Tirana 7, 23	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1026	Tirana 23	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1027	Tirana 6, 29	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1028	Tirana 28	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1029	Tirana Kamez Institut	Tirana	50	Bashkia Tiranë	10944420			41.3247	19.7974	1
+AL	1034	Petrele	Tirana	50	Bashkia Tiranë	10944420			41.2531	19.8531	4
+AL	1035	Baldushk	Tirana	50	Bashkia Tiranë	10944420			41.2139	19.7969	4
+AL	1036	Ndroq	Tirana	50	Bashkia Tiranë	10944420			41.2639	19.6558	4
+AL	1037	Berzhite	Tirana	50	Bashkia Tiranë	10944420			41.2453	19.9011	4
+AL	1038	Peze	Tirana	50	Bashkia Tiranë	10944420			41.2175	19.6961	4
+AL	1040	Priske (Dajt)	Tirana	50	Bashkia Tiranë	10944420			41.3192	19.9292	4
+AL	1041	Vaqarr	Tirana	50	Bashkia Tiranë	10944420			41.2992	19.7442	4
+AL	1042	Zall-Bastar	Tirana	50	Bashkia Tiranë	10944420			41.4297	19.9303	4
+AL	1043	Shengjergj	Tirana	50	Bashkia Tiranë	10944420			41.3361	20.1139	4
+AL	1044	Sauk	Tirana	50	Bashkia Tiranë	10944420			41.3	19.8333	4
+AL	1045	Farke	Tirana	50	Bashkia Tiranë	10944420			41.3056	19.8669	4
+AL	1046	Selite	Tirana	50	Bashkia Tiranë	10944420			41.3108	19.775	4
+AL	1048	Zall-Herr	Tirana	50	Bashkia Tiranë	10944420			41.3894	19.8275	4
+AL	1049	Krrabe	Tirana	50	Bashkia Tiranë	10944420			41.2156	19.9714	4
+AL	1050	Mezez	Tirana	50	Bashkia Tiranë	10944420			41.3344	19.7636	4
+AL	1051	Kashar	Tirana	50	Bashkia Tiranë	10944420			41.3497	19.7103	4
+AL	1052	Yzberisht	Tirana	50	Bashkia Tiranë	10944420			41.3244	19.7703	4
+AL	1700	Tranzit	Tirana	50	Bashkia Tiranë	10944420			41.3275	19.8189	
+AL	1800	EMS	Tirana	50	Bashkia Tiranë	10944420			41.3275	19.8189	
+AL	1032	Vore	Tirana	50	Bashkia Vorë	10944421			41.3908	19.655	4
+AL	1033	Tirana Marikaj	Tirana	50	Bashkia Vorë	10944421			41.3722	19.6322	4
+AL	1039	Preze	Tirana	50	Bashkia Vorë	10944421			41.4272	19.6728	4
+AL	1053	Berxull	Tirana	50	Bashkia Vorë	10944421			41.38	19.6875	4
+AL	9701	Qender Sarande	Qarku i Vlorës	51	Bashkia Sarandë	10944426			39.7592	20.1144	1
+AL	9702	Saranda 1	Qarku i Vlorës	51	Bashkia Sarandë	10944426			39.7592	20.1144	1
+AL	9703	Saranda Gjashte	Qarku i Vlorës	51	Bashkia Sarandë	10944426			39.7592	20.1144	1
+AL	9704	Delvine	Qarku i Vlorës	51	Bashkia Sarandë	10944426			39.9511	20.0978	4
+AL	9705	Konispol	Qarku i Vlorës	51	Bashkia Sarandë	10944426			39.6589	20.1814	4
+AL	9706	Ksamil	Qarku i Vlorës	51	Bashkia Sarandë	10944426			39.7689	19.9997	4
+AL	9707	Xarre	Qarku i Vlorës	51	Bashkia Sarandë	10944426			39.7283	20.0544	4
+AL	9708	Markat	Qarku i Vlorës	51	Bashkia Sarandë	10944426			39.7328	20.1953	4
+AL	9709	Shales	Qarku i Vlorës	51	Bashkia Sarandë	10944426			39.715	20.1578	4
+AL	9710	Aliko	Qarku i Vlorës	51	Bashkia Sarandë	10944426			39.8586	20.0792	4
+AL	9711	Memoraq	Qarku i Vlorës	51	Bashkia Sarandë	10944426			39.8483	20.1422	4
+AL	9712	Cerkovic	Qarku i Vlorës	51	Bashkia Sarandë	10944426			39.8269	20.2078	4
+AL	9713	Lukove	Qarku i Vlorës	51	Bashkia Sarandë	10944426			39.9922	19.9139	4
+AL	9714	Borsh	Qarku i Vlorës	51	Bashkia Sarandë	10944426			40.0617	19.8575	4
+AL	9715	Piqeras	Qarku i Vlorës	51	Bashkia Sarandë	10944426			40.0144	19.8911	4
+AL	9716	Finiq	Qarku i Vlorës	51	Bashkia Sarandë	10944426			39.9064	20.0583	4
+AL	9717	Mesapotam	Qarku i Vlorës	51	Bashkia Sarandë	10944426			39.9328	20.0314	1
+AL	9718	Rusan	Qarku i Vlorës	51	Bashkia Sarandë	10944426			39.9539	20.075	4
+AL	9719	Stjar	Qarku i Vlorës	51	Bashkia Sarandë	10944426			39.9322	20.0578	4
+AL	9720	Vergo	Qarku i Vlorës	51	Bashkia Sarandë	10944426			40.0067	20.0089	4
+AL	9721	Livadhja	Qarku i Vlorës	51	Bashkia Sarandë	10944426			39.7892	20.1219	4
+AL	9401	Vlora Qender	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.4833	19.5167	4
+AL	9402	Vlora-1	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.4192	19.596	1
+AL	9403	Vlora-2	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.4192	19.596	1
+AL	9404	Skele-Vlore	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.4192	19.596	1
+AL	9405	Uji Ftohte	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.4192	19.596	1
+AL	9406	Shushice	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.4192	19.596	1
+AL	9407	Kote	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.3894	19.6022	4
+AL	9408	Brataj	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.2678	19.6692	4
+AL	9409	Armen	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.5364	19.5961	4
+AL	9410	Sevaster	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.3964	19.7297	4
+AL	9411	Novosele	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.625	19.4669	4
+AL	9412	Vllahine	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.4569	19.6436	4
+AL	9413	Terbac (Vranisht)	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.2461	19.6456	4
+AL	9414	Narte	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.4979	19.4562	4
+AL	9415	Ramice	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.3069	19.6972	4
+AL	9416	Qeparo	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.056	19.8269	4
+AL	9417	Vuno	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.1397	19.6936	4
+AL	9418	Kuc	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.1751	19.8394	4
+AL	9419	Bestrove	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.5177	19.4848	4
+AL	9420	Trevllazer	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.5786	19.5095	4
+AL	9421	Gjorm	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.3164	19.6442	4
+AL	9422	Dhermi	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.1514	19.6389	4
+AL	9423	Babice	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.4841	19.5143	4
+AL	9424	Mesaplik	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.2561	19.7111	4
+AL	9425	Himare	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.1017	19.7447	4
+AL	9426	Orikum	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.3253	19.4714	4
+AL	9427	Selenice	Qarku i Vlorës	51	Bashkia Vlorë	10944428			40.5306	19.6358	4

@@ -1,0 +1,207 @@
+PF	98701	Arue	Îles du Vent	01	Arue	98712			-17.005	-149.5679	
+PF	98704	Faaa	Îles du Vent	01	Faaa	98715			-17.5843	-149.56	
+PF	98705	Hitiaa	Îles du Vent	01	Hitiaa O Te Ra	98722			-17.6175	-149.3298	
+PF	98706	Mahaena	Îles du Vent	01	Hitiaa O Te Ra	98722			-17.5938	-149.3636	
+PF	98707	Papenoo	Îles du Vent	01	Hitiaa O Te Ra	98722			-17.5985	-149.436	
+PF	98708	Tiarei	Îles du Vent	01	Hitiaa O Te Ra	98722			-17.5569	-149.3816	
+PF	98709	Mahina	Îles du Vent	01	Mahina	98725			-17.5566	-149.4746	
+PF	98710	Orofara	Îles du Vent	01	Mahina	98725			-17.5575	-149.4753	
+PF	98728	Maatea	Îles du Vent	01	Moorea-Maiao	98729			-17.5054	-149.778	
+PF	98728	Tiaia	Îles du Vent	01	Moorea-Maiao	98729			-17.5054	-149.778	
+PF	98728	Teavaro	Îles du Vent	01	Moorea-Maiao	98729			-17.5079	-149.7801	
+PF	98728	Temae	Îles du Vent	01	Moorea-Maiao	98729			-17.5054	-149.778	
+PF	98728	Haumi	Îles du Vent	01	Moorea-Maiao	98729			-17.5054	-149.778	
+PF	98728	Afareaitu	Îles du Vent	01	Moorea-Maiao	98729			-17.558	-149.8054	
+PF	98728	Vaiare	Îles du Vent	01	Moorea-Maiao	98729			-17.5054	-149.778	
+PF	98728	Paopao	Îles du Vent	01	Moorea-Maiao	98729			-17.5027	-149.8113	
+PF	98728	Maharepa	Îles du Vent	01	Moorea-Maiao	98729			-17.5054	-149.778	
+PF	98729	Varari	Îles du Vent	01	Moorea-Maiao	98729			-17.5054	-149.778	
+PF	98729	Pihaena	Îles du Vent	01	Moorea-Maiao	98729			-17.5054	-149.778	
+PF	98729	Atiha	Îles du Vent	01	Moorea-Maiao	98729			-17.5054	-149.778	
+PF	98729	Paopao	Îles du Vent	01	Moorea-Maiao	98729			-17.5054	-149.778	
+PF	98729	Tiahura	Îles du Vent	01	Moorea-Maiao	98729			-17.5054	-149.778	
+PF	98729	Hauru	Îles du Vent	01	Moorea-Maiao	98729			-17.5054	-149.778	
+PF	98729	Haapiti	Îles du Vent	01	Moorea-Maiao	98729			-17.5434	-149.8706	
+PF	98729	Maiao	Îles du Vent	01	Moorea-Maiao	98729			-17.5054	-149.778	
+PF	98729	Opunohu	Îles du Vent	01	Moorea-Maiao	98729			-17.5054	-149.778	
+PF	98729	Vaianae	Îles du Vent	01	Moorea-Maiao	98729			-17.5054	-149.778	
+PF	98729	Papetoai	Îles du Vent	01	Moorea-Maiao	98729			-17.5207	-149.8555	
+PF	98711	Paea	Îles du Vent	01	Paea	98733			-17.6875	-149.553	
+PF	98712	Papara	Îles du Vent	01	Papara	98734			-17.7213	-149.4967	
+PF	98714	Papeete	Îles du Vent	01	Papeete	98735			-17.5572	-149.5555	
+PF	98716	Pirae	Îles du Vent	01	Pirae	98736			-17.5699	-149.5196	
+PF	98703	Punaauia	Îles du Vent	01	Punaauia	98738			-17.618	-149.5486	
+PF	98718	Punaauia	Îles du Vent	01	Punaauia	98738			-17.618	-149.5486	
+PF	98719	Taravao	Îles du Vent	01	Taiarapu-Est	98747			-17.8097	-149.1716	
+PF	98719	Afaahiti	Îles du Vent	01	Taiarapu-Est	98747			-17.7383	-149.299	
+PF	98720	Faaone	Îles du Vent	01	Taiarapu-Est	98747			-17.6681	-149.3528	
+PF	98721	Pueu	Îles du Vent	01	Taiarapu-Est	98747			-17.7662	-149.2302	
+PF	98722	Tautira	Îles du Vent	01	Taiarapu-Est	98747			-17.8753	-148.0673	
+PF	98723	Teahupoo	Îles du Vent	01	Taiarapu-Ouest	98748			-17.844	-149.2129	
+PF	98724	Toahotu	Îles du Vent	01	Taiarapu-Ouest	98748			-17.7712	-149.2884	
+PF	98725	Vairao	Îles du Vent	01	Taiarapu-Ouest	98748			-17.8088	-149.2704	
+PF	98726	Mataiea	Îles du Vent	01	Teva I Uta	98752			-17.7251	-149.4287	
+PF	98727	Papeari	Îles du Vent	01	Teva I Uta	98752			-17.7168	-149.3764	
+PF	98730	Faanui	Îles Sous-le-Vent	02	Bora-Bora	98714			-16.4744	-151.7437	
+PF	98730	Anau	Îles Sous-le-Vent	02	Bora-Bora	98714			-16.5142	-151.7168	
+PF	98730	Vaitape	Îles Sous-le-Vent	02	Bora-Bora	98714			-16.4734	-151.7404	
+PF	98730	Nunue	Îles Sous-le-Vent	02	Bora-Bora	98714			-16.5133	-151.7455	
+PF	98731	Tefarerii	Îles Sous-le-Vent	02	Huahine	98724			-16.7747	-150.9712	
+PF	98731	Faie	Îles Sous-le-Vent	02	Huahine	98724			-16.7327	-150.9925	
+PF	98731	Fare	Îles Sous-le-Vent	02	Huahine	98724			-16.7127	-151.0267	
+PF	98731	Fitii	Îles Sous-le-Vent	02	Huahine	98724			-16.7469	-151.032	
+PF	98731	Maeva	Îles Sous-le-Vent	02	Huahine	98724			-16.7062	-151.0003	
+PF	98731	Haapu	Îles Sous-le-Vent	02	Huahine	98724			-16.7902	-151.0039	
+PF	98731	Huahine	Îles Sous-le-Vent	02	Huahine	98724			-16.7979	-151.0097	
+PF	98731	Maroe	Îles Sous-le-Vent	02	Huahine	98724			-16.7594	-151.0045	
+PF	98731	Parea	Îles Sous-le-Vent	02	Huahine	98724			-16.7995	-150.985	
+PF	98732	Avera	Îles Sous-le-Vent	02	Huahine	98724			-16.7979	-151.0097	
+PF	98732	Scilly	Îles Sous-le-Vent	02	Maupiti	98728			-16.5289	-154.649	
+PF	98732	Maupiti	Îles Sous-le-Vent	02	Maupiti	98728			-16.4425	-152.2656	
+PF	98732	Mopelia	Îles Sous-le-Vent	02	Maupiti	98728			-16.5289	-154.649	
+PF	98732	Motu One	Îles Sous-le-Vent	02	Maupiti	98728			-16.5289	-154.649	
+PF	98733	Tapuamu	Îles Sous-le-Vent	02	Tahaa	98745			-16.6147	-151.5345	
+PF	98733	Tiva	Îles Sous-le-Vent	02	Tahaa	98745			-16.6419	-151.5242	
+PF	98733	Ruutia	Îles Sous-le-Vent	02	Tahaa	98745			-16.6376	-151.5222	
+PF	98733	Patio	Îles Sous-le-Vent	02	Tahaa	98745			-16.6419	-151.5242	
+PF	98733	Hipu	Îles Sous-le-Vent	02	Tahaa	98745			-16.6012	-151.4622	
+PF	98733	Iripau	Îles Sous-le-Vent	02	Tahaa	98745			-16.5974	-151.5038	
+PF	98733	Tahaa	Îles Sous-le-Vent	02	Tahaa	98745			-16.6419	-151.5242	
+PF	98734	Faaaha	Îles Sous-le-Vent	02	Tahaa	98745			-16.6257	-151.4549	
+PF	98734	Haamene	Îles Sous-le-Vent	02	Tahaa	98745			-16.6364	-151.4815	
+PF	98734	Vaitoare	Îles Sous-le-Vent	02	Tahaa	98745			-16.6681	-151.4651	
+PF	98734	Poutoru	Îles Sous-le-Vent	02	Tahaa	98745			-16.6419	-151.5242	
+PF	98734	Niua	Îles Sous-le-Vent	02	Tahaa	98745			-16.6591	-151.4961	
+PF	98735	Avera	Îles Sous-le-Vent	02	Taputapuatea	98750			-16.8808	-151.4008	
+PF	98735	Taputapuatea	Îles Sous-le-Vent	02	Taputapuatea	98750			-16.8808	-151.4008	
+PF	98735	Opoa	Îles Sous-le-Vent	02	Taputapuatea	98750			-16.8482	-151.385	
+PF	98735	Puohine	Îles Sous-le-Vent	02	Taputapuatea	98750			-16.8799	-151.404	
+PF	98735	Tehurui	Îles Sous-le-Vent	02	Tumaraa	98754			-16.8316	-151.4683	
+PF	98735	Tumaraa	Îles Sous-le-Vent	02	Tumaraa	98754			-16.8307	-151.4715	
+PF	98735	Tevaitoa	Îles Sous-le-Vent	02	Tumaraa	98754			-16.7836	-151.4724	
+PF	98735	Fetuna	Îles Sous-le-Vent	02	Tumaraa	98754			-16.8873	-151.4368	
+PF	98735	Uturoa	Îles Sous-le-Vent	02	Uturoa	98758			-16.7406	-151.458	
+PF	98760	Tuuhora	Îles Tuamotu-Gambier	03	Anaa	98711			-17.3966	-145.5214	
+PF	98786	Hitianau	Îles Tuamotu-Gambier	03	Anaa	98711			-16.7125	-145.2203	
+PF	98790	Tepupahea	Îles Tuamotu-Gambier	03	Anaa	98711			-16.8708	-144.7867	
+PF	98761	Rautini	Îles Tuamotu-Gambier	03	Arutua	98713			-15.2526	-146.7361	
+PF	98762	Niutahi	Îles Tuamotu-Gambier	03	Arutua	98713			-15.3961	-146.3131	
+PF	98785	Raitahiti	Îles Tuamotu-Gambier	03	Arutua	98713			-15.7141	-146.7425	
+PF	98763	Rotoava	Îles Tuamotu-Gambier	03	Fakarava	98716			-16.2025	-145.6031	
+PF	98764	Paparara	Îles Tuamotu-Gambier	03	Fakarava	98716			-15.514	-145.5059	
+PF	98787	Tearavero	Îles Tuamotu-Gambier	03	Fakarava	98716			-15.8592	-145.1344	
+PF	98790	Ofare	Îles Tuamotu-Gambier	03	Fakarava	98716			-16.2492	-144.9277	
+PF	98790	Motu Tapu	Îles Tuamotu-Gambier	03	Fakarava	98716			-16.2492	-144.9277	
+PF	98790	Toau	Îles Tuamotu-Gambier	03	Fakarava	98716			-15.8601	-146.0092	
+PF	98765	Teana	Îles Tuamotu-Gambier	03	Fangatau	98717			-15.8223	-140.8657	
+PF	98766	Tarione	Îles Tuamotu-Gambier	03	Fangatau	98717			-15.9819	-140.1323	
+PF	98755	Rikitea	Îles Tuamotu-Gambier	03	Gambier	98719			-21.3081	-136.75	
+PF	98755	Angakauitai	Îles Tuamotu-Gambier	03	Gambier	98719			-23.1658	-135.0354	
+PF	98755	Taravai	Îles Tuamotu-Gambier	03	Gambier	98719			-23.1473	-135.0395	
+PF	98755	Maniui	Îles Tuamotu-Gambier	03	Gambier	98719			-21.3081	-136.75	
+PF	98755	Mangareva	Îles Tuamotu-Gambier	03	Gambier	98719			-23.1066	-134.9622	
+PF	98755	Makaroa	Îles Tuamotu-Gambier	03	Gambier	98719			-23.1321	-134.9038	
+PF	98755	Kamaka	Îles Tuamotu-Gambier	03	Gambier	98719			-23.2432	-134.9578	
+PF	98755	Akamaru	Îles Tuamotu-Gambier	03	Gambier	98719			-23.1861	-134.914	
+PF	98755	Aukena	Îles Tuamotu-Gambier	03	Gambier	98719			-23.2187	-134.9711	
+PF	98792	Tenararo	Îles Tuamotu-Gambier	03	Gambier	98719			-21.3051	-136.7465	
+PF	98792	Tenarunga	Îles Tuamotu-Gambier	03	Gambier	98719			-21.3446	-136.5425	
+PF	98792	Motureivavao	Îles Tuamotu-Gambier	03	Gambier	98719			-21.3081	-136.75	
+PF	98792	Maria Est	Îles Tuamotu-Gambier	03	Gambier	98719			-21.3081	-136.75	
+PF	98792	Temoe	Îles Tuamotu-Gambier	03	Gambier	98719			-23.3443	-134.4792	
+PF	98792	Morane	Îles Tuamotu-Gambier	03	Gambier	98719			-23.1526	-137.1315	
+PF	98792	Vahanga	Îles Tuamotu-Gambier	03	Gambier	98719			-21.3315	-136.6522	
+PF	98793	Marutea Sud	Îles Tuamotu-Gambier	03	Gambier	98719			-21.5187	-135.5622	
+PF	98767	Otepa	Îles Tuamotu-Gambier	03	Hao	98720			-18.2622	-140.8621	
+PF	98790	Manuhangi	Îles Tuamotu-Gambier	03	Hao	98720			-19.1971	-141.2449	
+PF	98790	Otetou	Îles Tuamotu-Gambier	03	Hao	98720			-20.6982	-143.0476	
+PF	98790	Teanoga	Îles Tuamotu-Gambier	03	Hao	98720			-20.6982	-143.0476	
+PF	98790	Amanu	Îles Tuamotu-Gambier	03	Hao	98720			-17.8028	-140.7716	
+PF	98790	Paraoa	Îles Tuamotu-Gambier	03	Hao	98720			-19.1265	-140.6894	
+PF	98790	Nengonengo	Îles Tuamotu-Gambier	03	Hao	98720			-18.7332	-141.8199	
+PF	98790	Ahunui	Îles Tuamotu-Gambier	03	Hao	98720			-19.634	-140.4082	
+PF	98790	Herehretue	Îles Tuamotu-Gambier	03	Hao	98720			-20.6982	-143.0476	
+PF	98790	Hikitake	Îles Tuamotu-Gambier	03	Hao	98720			-20.6982	-143.0476	
+PF	98768	Tupapati	Îles Tuamotu-Gambier	03	Hikueru	98721			-17.569	-142.5933	
+PF	98790	Motutapu	Îles Tuamotu-Gambier	03	Hikueru	98721			-17.8493	-143.066	
+PF	98790	Ravahere	Îles Tuamotu-Gambier	03	Hikueru	98721			-18.2444	-142.1514	
+PF	98790	Tepeperu	Îles Tuamotu-Gambier	03	Hikueru	98721			-17.8493	-143.066	
+PF	98790	Mahetika	Îles Tuamotu-Gambier	03	Hikueru	98721			-17.8493	-143.066	
+PF	98769	Pouheva	Îles Tuamotu-Gambier	03	Makemo	98726			-16.5535	-143.6946	
+PF	98789	Hitianau	Îles Tuamotu-Gambier	03	Makemo	98726			-16.3986	-144.3321	
+PF	98790	Tepoto Sud	Îles Tuamotu-Gambier	03	Makemo	98726			-16.8175	-144.2853	
+PF	98790	Hiti	Îles Tuamotu-Gambier	03	Makemo	98726			-16.7164	-144.0984	
+PF	98790	Haraiki	Îles Tuamotu-Gambier	03	Makemo	98726			-17.4589	-143.4506	
+PF	98790	Garumaoa	Îles Tuamotu-Gambier	03	Makemo	98726			-16.3277	-143.1146	
+PF	98790	Henuaparea	Îles Tuamotu-Gambier	03	Makemo	98726			-16.3277	-143.1146	
+PF	98790	Otatake	Îles Tuamotu-Gambier	03	Makemo	98726			-16.3277	-143.1146	
+PF	98790	Marutea Nord	Îles Tuamotu-Gambier	03	Makemo	98726			-17.0581	-143.0778	
+PF	98790	Tuanake	Îles Tuamotu-Gambier	03	Makemo	98726			-16.6423	-144.2118	
+PF	98770	Tenokupara	Îles Tuamotu-Gambier	03	Manihi	98727			-14.4846	-146.3073	
+PF	98771	Turipaoa	Îles Tuamotu-Gambier	03	Manihi	98727			-14.3985	-145.9542	
+PF	98772	Tepukamaruia	Îles Tuamotu-Gambier	03	Napuka	98730			-14.173	-141.2232	
+PF	98773	Tavava	Îles Tuamotu-Gambier	03	Nukutavake	98732			-19.28	-138.7834	
+PF	98788	Temanufaara	Îles Tuamotu-Gambier	03	Nukutavake	98732			-18.7697	-138.8211	
+PF	98774	Teonemahina	Îles Tuamotu-Gambier	03	Pukapuka	98737			-14.8161	-138.8186	
+PF	98775	Avatoru	Îles Tuamotu-Gambier	03	Rangiroa	98740			-15.0732	-147.5282	
+PF	98776	Tiputa	Îles Tuamotu-Gambier	03	Rangiroa	98740			-15.0732	-147.5282	
+PF	98777	Pahua	Îles Tuamotu-Gambier	03	Rangiroa	98740			-14.8848	-148.6748	
+PF	98778	Tuherahera	Îles Tuamotu-Gambier	03	Rangiroa	98740			-14.9934	-148.162	
+PF	98790	Vaitepaua	Îles Tuamotu-Gambier	03	Rangiroa	98740			-15.0732	-147.5282	
+PF	98779	Tapuarava	Îles Tuamotu-Gambier	03	Reao	98742			-18.514	-136.3792	
+PF	98780	Marautagaroa	Îles Tuamotu-Gambier	03	Reao	98742			-18.3043	-137.0173	
+PF	98781	Teavaroa	Îles Tuamotu-Gambier	03	Takaroa	98749			-14.4397	-144.9533	
+PF	98782	Fakatopatere	Îles Tuamotu-Gambier	03	Takaroa	98749			-14.6334	-145.2101	
+PF	98790	Tikei	Îles Tuamotu-Gambier	03	Takaroa	98749			-14.9505	-144.5466	
+PF	98783	Tumukuru	Îles Tuamotu-Gambier	03	Tatakoto	98751			-17.3379	-138.3978	
+PF	98784	Fakamaru	Îles Tuamotu-Gambier	03	Tureia	98755			-20.8244	-138.54	
+PF	98740	Omoa	Îles Marquises	04	Fatu-Hiva	98718			-10.3612	-138.4148	
+PF	98740	Hanavave	Îles Marquises	04	Fatu-Hiva	98718			-10.3612	-138.4148	
+PF	98741	Nahoe	Îles Marquises	04	Hiva-Oa	98723			-9.7562	-138.8869	
+PF	98741	Paumau	Îles Marquises	04	Hiva-Oa	98723			-9.7562	-138.8869	
+PF	98741	Hanaiapa	Îles Marquises	04	Hiva-Oa	98723			-9.7562	-138.8869	
+PF	98741	Atuona	Îles Marquises	04	Hiva-Oa	98723			-9.7765	-139.0558	
+PF	98741	Motu Ua	Îles Marquises	04	Hiva-Oa	98723			-9.7562	-138.8869	
+PF	98741	Eiaone	Îles Marquises	04	Hiva-Oa	98723			-9.7562	-138.8869	
+PF	98741	Hanapaoa	Îles Marquises	04	Hiva-Oa	98723			-9.7562	-138.8869	
+PF	98749	Puamau	Îles Marquises	04	Hiva-Oa	98723			-9.7683	-138.9128	
+PF	98796	Fatu Huku	Îles Marquises	04	Hiva-Oa	98723			-9.4366	-138.9263	
+PF	98796	Mohotani	Îles Marquises	04	Hiva-Oa	98723			-9.9852	-138.8266	
+PF	98742	Nukuataha	Îles Marquises	04	Nuku-Hiva	98731			-8.8255	-140.1304	
+PF	98742	Taiohae	Îles Marquises	04	Nuku-Hiva	98731			-8.8967	-140.159	
+PF	98742	Terre Deserte	Îles Marquises	04	Nuku-Hiva	98731			-8.8255	-140.1304	
+PF	98742	Taipivai	Îles Marquises	04	Nuku-Hiva	98731			-8.8789	-140.0595	
+PF	98742	Aakapa	Îles Marquises	04	Nuku-Hiva	98731			-8.8255	-140.1304	
+PF	98748	Hatiheu	Îles Marquises	04	Nuku-Hiva	98731			-8.8248	-140.1581	
+PF	98796	Hatutaa	Îles Marquises	04	Nuku-Hiva	98731			-7.917	-140.5712	
+PF	98796	Hatu Iti	Îles Marquises	04	Nuku-Hiva	98731			-8.6765	-140.6174	
+PF	98796	Eiao	Îles Marquises	04	Nuku-Hiva	98731			-7.997	-140.6885	
+PF	98743	Hapatoni	Îles Marquises	04	Tahuata	98746			-9.9575	-139.0832	
+PF	98743	Hanatetena	Îles Marquises	04	Tahuata	98746			-9.9575	-139.0832	
+PF	98743	Vaitahu	Îles Marquises	04	Tahuata	98746			-9.9575	-139.0832	
+PF	98743	Motopu	Îles Marquises	04	Tahuata	98746			-9.9575	-139.0832	
+PF	98744	Vaipaee	Îles Marquises	04	Ua Huka	98756			-8.9099	-139.5493	
+PF	98747	Hane	Îles Marquises	04	Ua Huka	98756			-8.9084	-139.5536	
+PF	98745	Hakahetau	Îles Marquises	04	Ua-Pou	98757			-9.4283	-140.0895	
+PF	98745	Hakatao	Îles Marquises	04	Ua-Pou	98757			-9.4283	-140.0895	
+PF	98745	Hohoi	Îles Marquises	04	Ua-Pou	98757			-9.4283	-140.0895	
+PF	98745	Hakahau	Îles Marquises	04	Ua-Pou	98757			-9.3881	-140.0638	
+PF	98746	Hakamaii	Îles Marquises	04	Ua-Pou	98757			-9.4176	-140.0925	
+PF	98746	Haakuti	Îles Marquises	04	Ua-Pou	98757			-9.4283	-140.0895	
+PF	98750	Anatonu	Îles Australes	05	Raivavae	98739			-23.8495	-147.6237	
+PF	98750	Mahanatoa	Îles Australes	05	Raivavae	98739			-23.8793	-147.6755	
+PF	98750	Rairua	Îles Australes	05	Raivavae	98739			-23.8793	-147.6755	
+PF	98750	Vaiuru	Îles Australes	05	Raivavae	98739			-23.8678	-147.6381	
+PF	98751	Ahurei	Îles Australes	05	Rapa	98741			-27.6056	-144.344	
+PF	98794	Marotiri	Îles Australes	05	Rapa	98741			-27.8914	-143.4959	
+PF	98752	Amaru	Îles Australes	05	Rimatara	98743			-22.6449	-152.7982	
+PF	98752	Mutuaura	Îles Australes	05	Rimatara	98743			-22.6567	-152.8062	
+PF	98752	Rimatara	Îles Australes	05	Rimatara	98743			-22.657	-152.8051	
+PF	98752	Anapoto	Îles Australes	05	Rimatara	98743			-22.6456	-152.8142	
+PF	98795	Maria Ilots	Îles Australes	05	Rimatara	98743			-22.657	-152.8051	
+PF	98753	Avera	Îles Australes	05	Rurutu	98744			-22.5004	-151.333	
+PF	98753	Hauti	Îles Australes	05	Rurutu	98744			-22.4975	-151.3334	
+PF	98753	Moerai	Îles Australes	05	Rurutu	98744			-22.4543	-151.3451	
+PF	98754	Mahu	Îles Australes	05	Tubuai	98753			-23.3886	-149.4816	
+PF	98754	Taahuaia	Îles Australes	05	Tubuai	98753			-23.3637	-149.453	
+PF	98754	Mataura	Îles Australes	05	Tubuai	98753			-23.3667	-149.4978	
