@@ -1,6 +1,6 @@
 @MultiWeather_HostAddress = http://localhost:5295
 
-GET {{MultiWeather_HostAddress}}/MultiWeather/
+GET {{MultiWeather_HostAddress}}/MultiWeather/GetCurrent
 Accept: application/json
 
 ###
