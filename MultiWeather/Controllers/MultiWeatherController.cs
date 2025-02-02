@@ -19,14 +19,38 @@ namespace MultiWeather.Controllers
         [Route("GetCurrent")]
         public async Task<ContentResult> GetCurrent(string locationQuery)
         {
-            var response = await _weatherApiService.GetCurrentAsync(locationQuery);
-            var jsonResponse = JsonSerializer.Serialize(response);
-            return new ContentResult()
+            try
             {
-                StatusCode = StatusCodes.Status200OK,
-                Content = jsonResponse,
-                ContentType = "application/json"
-            };
+                var response = await _weatherApiService.GetCurrentAsync(locationQuery);
+                if (response.Error != null)
+                {
+                    return CreateErrorResponse(response.Error.Code);
+                }
+
+                var jsonResponse = JsonSerializer.Serialize(response);
+                return new ContentResult
+                {
+                    StatusCode = StatusCodes.Status200OK,
+                    Content = jsonResponse,
+                    ContentType = "application/json"
+                };
+            }
+            catch (Exception)
+            {
+                return new ContentResult { StatusCode = StatusCodes.Status500InternalServerError };
+            }
+        }
+
+        private ContentResult CreateErrorResponse(int errorCode)
+        {
+            if (errorCode == (int)ErrorCodes.LocationNotFound)
+            {
+                return new ContentResult { StatusCode = StatusCodes.Status400BadRequest };
+            }
+            else
+            {
+                return new ContentResult { StatusCode = StatusCodes.Status500InternalServerError };
+            }
         }
 
     }

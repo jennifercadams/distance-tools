@@ -1,4 +1,7 @@
-﻿namespace MultiWeather.Models.DTO
+﻿using MultiWeather.Models.WeatherApi;
+using System.Text.Json.Serialization;
+
+namespace MultiWeather.Models.DTO
 {
     public class GetCurrentResponse
     {
@@ -7,6 +10,8 @@
         public string? ConditionText { get; set; }
         public string? ConditionIcon { get; set; }
         public string? Temperature { get; set; }
-        public string? Error { get; set; }
+
+        [JsonIgnore]
+        public ErrorResponse? Error { get; set; }
     }
 }
