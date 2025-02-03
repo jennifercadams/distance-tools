@@ -2,10 +2,10 @@
 {
     public class Country
     {
-        public Country(string countryCode)
+        public Country(string countryCode, string countryName)
         {
             CountryCode = countryCode;
-            CountryName = "";
+            CountryName = countryName;
             Locations = [];
         }
 

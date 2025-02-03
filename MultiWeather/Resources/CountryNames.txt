@@ -1,0 +1,120 @@
+AD	Andorra
+AE	United Arab Emirates
+AI	Anguilla
+AL	Albania
+AR	Argentina
+AS	American Samoa
+AT	Austria
+AU	Australia
+AX	Åland Islands
+AZ	Azerbaijan
+BD	Bangladesh
+BE	Belgium
+BG	Bulgaria
+BM	Bermuda
+BR	Brazil
+BY	Belarus
+CA	Canada
+CC	Cocos (Keeling) Islands
+CH	Switzerland
+CL	Chile
+CN	China
+CO	Colombia
+CR	Costa Rica
+CX	Christmas Island
+CY	Cyprus
+CZ	Czechia
+DE	Germany
+DK	Denmark
+DO	Dominican Republic
+DZ	Algeria
+EC	Ecuador
+EE	Estonia
+ES	Spain
+FI	Finland
+FK	Falkland Islands (Malvinas)
+FM	Micronesia, Federated States of
+FO	Faroe Islands
+FR	France
+GB	United Kingdom of Great Britain and Northern Ireland
+GF	French Guiana
+GG	Guernsey
+GI	Gibraltar
+GL	Greenland
+GP	Guadeloupe
+GS	South Georgia and the South Sandwich Islands
+GT	Guatemala
+GU	Guam
+HK	Hong Kong
+HM	Heard Island and McDonald Islands
+HN	Honduras
+HR	Croatia
+HT	Haiti
+HU	Hungary
+IE	Ireland
+IM	Isle of Man
+IN	India
+IO	British Indian Ocean Territory
+IS	Iceland
+IT	Italy
+JE	Jersey
+JP	Japan
+KE	Kenya
+KR	Korea, Republic of
+LI	Liechtenstein
+LK	Sri Lanka
+LT	Lithuania
+LU	Luxembourg
+LV	Latvia
+MA	Morocco
+MC	Monaco
+MD	Moldova, Republic of
+MH	Marshall Islands
+MK	North Macedonia
+MO	Macao
+MP	Northern Mariana Islands
+MQ	Martinique
+MT	Malta
+MW	Malawi
+MX	Mexico
+MY	Malaysia
+NC	New Caledonia
+NF	Norfolk Island
+NL	Netherlands, Kingdom of the
+NO	Norway
+NR	Nauru
+NU	Niue
+NZ	New Zealand
+PA	Panama
+PE	Peru
+PF	French Polynesia
+PH	Philippines
+PK	Pakistan
+PL	Poland
+PM	Saint Pierre and Miquelon
+PN	Pitcairn
+PR	Puerto Rico
+PT	Portugal
+PW	Palau
+RE	Réunion
+RO	Romania
+RS	Serbia
+RU	Russian Federation
+SE	Sweden
+SG	Singapore
+SI	Slovenia
+SJ	Svalbard and Jan Mayen
+SK	Slovakia
+SM	San Marino
+TC	Turks and Caicos Islands
+TH	Thailand
+TR	Türkiye
+UA	Ukraine
+US	United States of America
+UY	Uruguay
+VA	Holy See
+VI	Virgin Islands (U.S.)
+WF	Wallis and Futuna
+WS	Samoa
+YT	Mayotte
+ZA	South Africa
