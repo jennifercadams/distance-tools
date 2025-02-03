@@ -4,26 +4,37 @@ namespace MultiWeather.Utilities
 {
     public static class LocationDataCollection
     {
+        public static Dictionary<string, string> CountryNameList { get; }
         public static Dictionary<string, Country> Countries { get; }
 
         static LocationDataCollection()
         {
-            Countries = LoadData();
+            var root = Directory.GetCurrentDirectory();
+            var countryNames = LoadCountryNames(root);
+            var countries = LoadCountryData(root, countryNames);
+
+            CountryNameList = countryNames;
+            Countries = countries;
         }
 
-        private static Dictionary<string, Country> LoadData()
+        private static Dictionary<string, string> LoadCountryNames(string root)
         {
             var countryNames = new Dictionary<string, string>();
-            var countries = new Dictionary<string, Country>();
 
-            var root = Directory.GetCurrentDirectory();
-            var countryNameFilePath = Path.Combine(root, "Resources", "CountryNames.txt");
+            var path = Path.Combine(root, "Resources", "CountryNames.txt");
 
-            foreach (var line in File.ReadLines(countryNameFilePath))
+            foreach (var line in File.ReadLines(path))
             {
                 var data = line.Split('\t');
                 countryNames.Add(data[0], data[1]);
             }
+
+            return countryNames;
+        }
+
+        private static Dictionary<string, Country> LoadCountryData(string root, Dictionary<string, string> countryNames)
+        {
+            var countries = new Dictionary<string, Country>();
 
             var directory = Path.Combine(root, "Resources", "PostalCodeData");
             var filePaths = Directory.GetFiles(directory);
