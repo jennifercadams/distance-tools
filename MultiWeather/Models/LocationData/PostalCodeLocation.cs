@@ -2,6 +2,19 @@
 {
     public class PostalCodeLocation
     {
+        public string CountryCode { get; private set; }
+        public string PostalCode { get; private set; }
+        public string PlaceName { get; private set; }
+        public string AdminName1 { get; private set; }
+        public string AdminCode1 { get; private set; }
+        public string AdminName2 { get; private set; }
+        public string AdminCode2 { get; private set; }
+        public string AdminName3 { get; private set; }
+        public string AdminCode3 { get; private set; }
+        public decimal Latitude { get; private set; }
+        public decimal Longitude { get; private set; }
+        public int Accuracy { get; private set; }
+
         public PostalCodeLocation(string[] data)
         {
             if (!decimal.TryParse(data[9], out decimal latitude))
@@ -24,18 +37,5 @@
             Longitude = longitude;
             Accuracy = accuracy;
         }
-
-        public string CountryCode { get; private set; }
-        public string PostalCode { get; private set; }
-        public string PlaceName { get; private set; }
-        public string AdminName1 { get; private set; }
-        public string AdminCode1 { get; private set; }
-        public string AdminName2 { get; private set; }
-        public string AdminCode2 { get; private set; }
-        public string AdminName3 { get; private set; }
-        public string AdminCode3 { get; private set; }
-        public decimal Latitude { get; private set; }
-        public decimal Longitude { get; private set; }
-        public int Accuracy { get; private set; }
     }
 }

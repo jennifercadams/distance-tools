@@ -4,12 +4,12 @@ namespace MultiWeather.Utilities
 {
     public static class LocationDataCollection
     {
+        public static Dictionary<string, Country> Countries { get; }
+
         static LocationDataCollection()
         {
             Countries = LoadData();
         }
-
-        public static Dictionary<string, Country> Countries { get; }
 
         private static Dictionary<string, Country> LoadData()
         {

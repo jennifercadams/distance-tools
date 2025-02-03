@@ -1,16 +1,9 @@
 ﻿namespace MultiWeather.Models.LocationData
 {
-    public class Country
+    public class Country(string countryCode, string countryName)
     {
-        public Country(string countryCode, string countryName)
-        {
-            CountryCode = countryCode;
-            CountryName = countryName;
-            Locations = [];
-        }
-
-        public string CountryCode { get; private set; }
-        public string CountryName { get; private set; }
-        public List<PostalCodeLocation> Locations { get; private set; }
+        public string CountryCode { get; private set; } = countryCode;
+        public string CountryName { get; private set; } = countryName;
+        public List<PostalCodeLocation> Locations { get; private set; } = [];
     }
 }
