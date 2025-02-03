@@ -1,5 +1,15 @@
 @MultiWeather_HostAddress = http://localhost:5295
 
+GET {{MultiWeather_HostAddress}}/Location/GetCountryNameList
+Accept: application/json
+
+###
+
+GET {{MultiWeather_HostAddress}}/Location/GetPostalCodeLocation
+Accept: application/json
+
+###
+
 GET {{MultiWeather_HostAddress}}/MultiWeather/GetCurrent
 Accept: application/json
 
