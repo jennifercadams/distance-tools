@@ -1,4 +1,4 @@
 ﻿namespace MultiWeather.Exceptions
 {
-    public class RequestFailedException : Exception { }
+    public class RequestFailedException(string message) : Exception(message) { }
 }

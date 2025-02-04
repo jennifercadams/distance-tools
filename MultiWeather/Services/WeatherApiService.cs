@@ -37,7 +37,7 @@ namespace MultiWeather.Services
 
                 if (currentResponse?.Error != null && currentResponse.Error.Code != (int)ErrorCodes.LocationNotFound)
                 {
-                    throw new RequestFailedException();
+                    throw new RequestFailedException(responseBody);
                 }
 
                 var getCurrentResponse = new GetCurrentResponse

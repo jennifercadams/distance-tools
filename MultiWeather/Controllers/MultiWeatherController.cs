@@ -30,8 +30,9 @@ namespace MultiWeather.Controllers
                     ContentType = "application/json"
                 };
             }
-            catch (Exception)
+            catch (Exception ex)
             {
+                Console.Error.WriteLine(ex.ToString());
                 return new ContentResult { StatusCode = StatusCodes.Status500InternalServerError };
             }
         }
