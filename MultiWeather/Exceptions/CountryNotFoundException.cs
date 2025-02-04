@@ -2,7 +2,7 @@
 {
     public class CountryNotFoundException : Exception
     {
-        public const string ErrorMessage = "Country not found for country code {0}";
+        private const string ErrorMessage = "Country not found for country code {0}";
 
         public CountryNotFoundException(string countryCode)
             : base(string.Format(ErrorMessage, countryCode)) { }
