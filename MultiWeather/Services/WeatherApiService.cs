@@ -2,6 +2,7 @@
 using MultiWeather.Models.DTO;
 using MultiWeather.Models.WeatherApi;
 using System.Text.Json;
+using System.Text.RegularExpressions;
 
 namespace MultiWeather.Services
 {
@@ -25,6 +26,8 @@ namespace MultiWeather.Services
 
         public async Task<List<GetCurrentResponse>> GetCurrentAsync(string[] locationQueries)
         {
+            ValidateLocationQueries(locationQueries);
+
             var responseList = new List<GetCurrentResponse>();
 
             foreach (var locationQuery in locationQueries)
@@ -56,6 +59,18 @@ namespace MultiWeather.Services
             }
 
             return responseList;
+        }
+
+        private void ValidateLocationQueries(string[] locationQueries)
+        {
+            foreach (var query in locationQueries)
+            {
+                var pattern = @"^-?\d+\.\d+,-?\d+\.\d+$";
+                var match = Regex.IsMatch(query, pattern);
+
+                if (!match)
+                    throw new InvalidLocationQueryException(query);
+            }
         }
 
     }

@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using MultiWeather.Exceptions;
 using MultiWeather.Services;
 using System.Text.Json;
 
@@ -29,6 +30,11 @@ namespace MultiWeather.Controllers
                     Content = jsonResponse,
                     ContentType = "application/json"
                 };
+            }
+            catch (InvalidLocationQueryException ex)
+            {
+                Console.Error.WriteLine(ex.ToString());
+                return new ContentResult { StatusCode = StatusCodes.Status400BadRequest };
             }
             catch (Exception ex)
             {
