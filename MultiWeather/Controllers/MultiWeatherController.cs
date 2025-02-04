@@ -22,11 +22,6 @@ namespace MultiWeather.Controllers
             try
             {
                 var response = await _weatherApiService.GetCurrentAsync(locationQueries);
-                if (response.All(r => !r.LocationFound))
-                {
-                    return new ContentResult { StatusCode = StatusCodes.Status400BadRequest };
-                }
-
                 var jsonResponse = JsonSerializer.Serialize(response);
                 return new ContentResult
                 {
