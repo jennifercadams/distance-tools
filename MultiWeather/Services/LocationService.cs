@@ -34,6 +34,7 @@ namespace MultiWeather.Services
 
             return new LocationDataResponse
             {
+                PlaceName = location.PlaceName,
                 CountryCode = countryCode,
                 PostalCode = location.PostalCode,
                 Latitude = location.Latitude,
