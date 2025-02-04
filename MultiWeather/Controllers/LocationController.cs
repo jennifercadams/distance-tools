@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using MultiWeather.Exceptions;
 using MultiWeather.Services;
 using System.Text.Json;
 
@@ -30,9 +31,9 @@ namespace MultiWeather.Controllers
                     ContentType = "application/json"
                 };
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                return new ContentResult { StatusCode = StatusCodes.Status500InternalServerError };
+                return HandleErrorResponse(ex);
             }
         }
 
@@ -51,8 +52,23 @@ namespace MultiWeather.Controllers
                     ContentType = "application/json"
                 };
             }
-            catch (Exception)
+            catch (Exception ex)
             {
+                return HandleErrorResponse(ex);
+            }
+        }
+
+        private ContentResult HandleErrorResponse(Exception ex)
+        {
+            Console.Error.WriteLine(ex.ToString());
+
+            if (ex is CountryNotFoundException || ex is LocationNotFoundException)
+            {
+                return new ContentResult { StatusCode = StatusCodes.Status400BadRequest };
+            }
+            else
+            {
+                Console.Error.WriteLine(ex.ToString());
                 return new ContentResult { StatusCode = StatusCodes.Status500InternalServerError };
             }
         }
