@@ -1,4 +1,5 @@
-﻿using MultiWeather.Exceptions;
+﻿using Microsoft.Extensions.Caching.Memory;
+using MultiWeather.Exceptions;
 using MultiWeather.Models.DTO;
 using MultiWeather.Models.WeatherApi;
 using System.Text.Json;
@@ -15,11 +16,13 @@ namespace MultiWeather.Services
     {
         private const string BaseUrl = "https://api.weatherapi.com/v1/";
 
+        private readonly IMemoryCache _cache;
         private readonly HttpClient _httpClient;
         private readonly string _apiKey;
 
-        public WeatherApiService()
+        public WeatherApiService(IMemoryCache memoryCache)
         {
+            _cache = memoryCache;
             _httpClient = new HttpClient { BaseAddress = new Uri(BaseUrl) };
             _apiKey = Environment.GetEnvironmentVariable("WEATHER_API_KEY") ?? "";
         }
@@ -32,6 +35,13 @@ namespace MultiWeather.Services
 
             foreach (var locationQuery in locationQueries)
             {
+                var isCached = _cache.TryGetValue(locationQuery, out GetCurrentResponse? cachedResponse);
+                if (isCached && cachedResponse != null)
+                {
+                    responseList.Add(cachedResponse);
+                    continue;
+                }
+
                 var path = $"current.json?key={_apiKey}&q={locationQuery}";
 
                 var response = await _httpClient.GetAsync(path);
@@ -54,6 +64,9 @@ namespace MultiWeather.Services
                     TempC = currentResponse?.Current?.TempC,
                     TempF = currentResponse?.Current?.TempF,
                 };
+
+                var expiration = DateTimeOffset.Now.AddMinutes(10);
+                _cache.Set(locationQuery, getCurrentResponse, expiration);
 
                 responseList.Add(getCurrentResponse);
             }

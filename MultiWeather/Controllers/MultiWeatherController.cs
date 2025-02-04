@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Caching.Memory;
 using MultiWeather.Exceptions;
 using MultiWeather.Services;
 using System.Text.Json;
@@ -11,9 +12,9 @@ namespace MultiWeather.Controllers
     {
         private readonly WeatherApiService _weatherApiService;
 
-        public MultiWeatherController()
+        public MultiWeatherController(IMemoryCache memoryCache)
         {
-            _weatherApiService = new WeatherApiService();
+            _weatherApiService = new WeatherApiService(memoryCache);
         }
 
         [HttpGet]
