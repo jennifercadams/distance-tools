@@ -43,12 +43,6 @@ namespace MultiWeather.Controllers
             try
             {
                 var location = _locationService.GetPostalCodeLocation(countryCode, postalCode);
-
-                if (location == null)
-                {
-                    return new ContentResult { StatusCode = StatusCodes.Status400BadRequest };
-                }
-
                 var jsonLocation = JsonSerializer.Serialize(location);
                 return new ContentResult
                 {

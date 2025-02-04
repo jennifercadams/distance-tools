@@ -1,4 +1,5 @@
-﻿using MultiWeather.Models.DTO;
+﻿using MultiWeather.Exceptions;
+using MultiWeather.Models.DTO;
 using MultiWeather.Models.LocationData;
 using MultiWeather.Utilities;
 
@@ -20,17 +21,15 @@ namespace MultiWeather.Services
             return CountryNameList;
         }
 
-        public LocationDataResponse? GetPostalCodeLocation(string countryCode, string postalCode)
+        public LocationDataResponse GetPostalCodeLocation(string countryCode, string postalCode)
         {
             if (!Countries.TryGetValue(countryCode, out Country? country))
-                return null;
+                throw new CountryNotFoundException(countryCode);
 
-            var location = country.Locations.Find(l => {
-                return l.PostalCode.ToUpper() == postalCode.Trim().ToUpper();
-            });
+            var location = country.Locations.Find(l => l.PostalCode.ToUpper() == postalCode.Trim().ToUpper());
 
             if (location == null)
-                return null;
+                throw new LocationNotFoundException(postalCode);
 
             return new LocationDataResponse
             {
