@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MultiWeather.Exceptions;
-using MultiWeather.Services;
+using MultiWeather.Services.WeatherApiService;
 using System.Text.Json;
 
 namespace MultiWeather.Controllers

@@ -1,6 +1,6 @@
 ﻿using MultiWeather.Models.DTO;
 
-namespace MultiWeather.Services
+namespace MultiWeather.Services.WeatherApiService
 {
     public class WeatherApiCacheEntry(GetCurrentResponse value, DateTime expiration)
     {

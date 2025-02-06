@@ -4,7 +4,7 @@ using MultiWeather.Models.WeatherApi;
 using System.Text.Json;
 using System.Text.RegularExpressions;
 
-namespace MultiWeather.Services
+namespace MultiWeather.Services.WeatherApiService
 {
     public enum ErrorCodes
     {

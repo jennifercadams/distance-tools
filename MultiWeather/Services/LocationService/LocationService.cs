@@ -1,9 +1,8 @@
 ﻿using MultiWeather.Exceptions;
 using MultiWeather.Models.DTO;
 using MultiWeather.Models.LocationData;
-using MultiWeather.Utilities;
 
-namespace MultiWeather.Services
+namespace MultiWeather.Services.LocationService
 {
     public class LocationService
     {

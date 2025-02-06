@@ -1,4 +1,4 @@
-using MultiWeather.Services;
+using MultiWeather.Services.WeatherApiService;
 using MultiWeather.Utilities;
 
 // Load .env

@@ -1,6 +1,6 @@
 ﻿using MultiWeather.Models.LocationData;
 
-namespace MultiWeather.Utilities
+namespace MultiWeather.Services.LocationService
 {
     public static class LocationDataCollection
     {
