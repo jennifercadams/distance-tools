@@ -18,10 +18,16 @@ namespace MultiWeather.Services.WeatherApiService
 
         public GetCurrentResponse? Get(string key)
         {
-            if (Entries.TryGetValue(key, out WeatherApiCacheEntry? value) && value != null)
-                return value.Response;
-            else
+            if (!Entries.TryGetValue(key, out WeatherApiCacheEntry? value) || value == null)
                 return null;
+
+            if (value.IsExpired)
+            {
+                Entries.Remove(key);
+                return null;
+            }
+
+            return value.Response;
         }
 
         public void Set(string key, GetCurrentResponse value)
