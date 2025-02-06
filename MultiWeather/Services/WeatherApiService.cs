@@ -41,28 +41,7 @@ namespace MultiWeather.Services
                     continue;
                 }
 
-                var path = $"current.json?key={_apiKey}&q={locationQuery}";
-
-                var response = await _httpClient.GetAsync(path);
-                var responseBody = await response.Content.ReadAsStringAsync();
-                var currentResponse = JsonSerializer.Deserialize<CurrentResponse>(responseBody);
-
-                if (currentResponse?.Error != null && currentResponse.Error.Code != (int)ErrorCodes.LocationNotFound)
-                {
-                    throw new RequestFailedException(responseBody);
-                }
-
-                var getCurrentResponse = new GetCurrentResponse
-                {
-                    LocationQuery = locationQuery,
-                    LocationFound = currentResponse?.Location != null,
-                    LocationName = currentResponse?.Location?.Name,
-                    TimeZone = currentResponse?.Location?.TimeZone,
-                    ConditionText = currentResponse?.Current?.Condition.Text,
-                    ConditionIcon = currentResponse?.Current?.Condition.Icon,
-                    TempC = currentResponse?.Current?.TempC,
-                    TempF = currentResponse?.Current?.TempF,
-                };
+                var getCurrentResponse = await SendCurrentRequestAsync(locationQuery);
 
                 _cache.Set(locationQuery, getCurrentResponse);
 
@@ -82,6 +61,34 @@ namespace MultiWeather.Services
                 if (!match)
                     throw new InvalidLocationQueryException(query);
             }
+        }
+
+        private async Task<GetCurrentResponse> SendCurrentRequestAsync(string locationQuery)
+        {
+            var path = $"current.json?key={_apiKey}&q={locationQuery}";
+
+            var response = await _httpClient.GetAsync(path);
+            var responseBody = await response.Content.ReadAsStringAsync();
+            var currentResponse = JsonSerializer.Deserialize<CurrentResponse>(responseBody);
+
+            if (currentResponse?.Error != null && currentResponse.Error.Code != (int)ErrorCodes.LocationNotFound)
+            {
+                throw new RequestFailedException(responseBody);
+            }
+
+            var getCurrentResponse = new GetCurrentResponse
+            {
+                LocationQuery = locationQuery,
+                LocationFound = currentResponse?.Location != null,
+                LocationName = currentResponse?.Location?.Name,
+                TimeZone = currentResponse?.Location?.TimeZone,
+                ConditionText = currentResponse?.Current?.Condition.Text,
+                ConditionIcon = currentResponse?.Current?.Condition.Icon,
+                TempC = currentResponse?.Current?.TempC,
+                TempF = currentResponse?.Current?.TempF,
+            };
+
+            return getCurrentResponse;
         }
 
     }
