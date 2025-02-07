@@ -26,6 +26,34 @@ namespace MultiWeather.Services.WeatherApiService
             _apiKey = Environment.GetEnvironmentVariable("WEATHER_API_KEY") ?? "";
         }
 
+        public async Task<List<SearchLocationResponse>> SearchLocationAsync(string locationQuery)
+        {
+            var path = $"search.json?key={_apiKey}&q={locationQuery}";
+
+            var response = await _httpClient.GetAsync(path);
+            var responseBody = await response.Content.ReadAsStringAsync();
+            var searchResponse = JsonSerializer.Deserialize<List<Location>>(responseBody);
+
+            var responseList = new List<SearchLocationResponse>();
+
+            var locations = searchResponse ?? [];
+            foreach (var location in locations)
+            {
+                var getLocationResponse = new SearchLocationResponse
+                {
+                    Latitude = location.Latitude,
+                    Longitude = location.Longitude,
+                    ShortName = location.Name,
+                    FullName = string.Join(", ", [location.Name, location.Region, location.Country]),
+                };
+
+                responseList.Add(getLocationResponse);
+            }
+
+            return responseList;
+
+        }
+
         public async Task<List<GetCurrentResponse>> GetCurrentAsync(string[] locationQueries)
         {
             ValidateLocationQueries(locationQueries);

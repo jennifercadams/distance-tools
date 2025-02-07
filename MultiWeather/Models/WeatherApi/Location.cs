@@ -4,6 +4,9 @@ namespace MultiWeather.Models.WeatherApi
 {
     public class Location
     {
+        [JsonPropertyName("id")]
+        public int? Id { get; set; }
+
         [JsonPropertyName("lat")]
         public decimal Latitude { get; set; }
 
@@ -20,12 +23,12 @@ namespace MultiWeather.Models.WeatherApi
         public string Country { get; set; } = "";
 
         [JsonPropertyName("tz_id")]
-        public string TimeZone { get; set; } = "";
+        public string? TimeZone { get; set; }
 
         [JsonPropertyName("localtime_epoch")]
-        public int LocalTimeEpoch { get; set; }
+        public int? LocalTimeEpoch { get; set; }
 
         [JsonPropertyName("localtime")]
-        public string LocalTime { get; set; } = "";
+        public string? LocalTime { get; set; }
     }
 }
