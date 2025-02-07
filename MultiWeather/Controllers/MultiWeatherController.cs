@@ -18,7 +18,7 @@ namespace MultiWeather.Controllers
 
         [HttpGet]
         [Route("SearchLocation")]
-        public async Task<ContentResult> SearchLocation(string locationQuery)
+        public async Task<ContentResult> SearchLocation([FromQuery(Name = "q")]string locationQuery)
         {
             try
             {
@@ -40,7 +40,7 @@ namespace MultiWeather.Controllers
 
         [HttpGet]
         [Route("GetCurrent")]
-        public async Task<ContentResult> GetCurrent([FromQuery] string[] locationQueries)
+        public async Task<ContentResult> GetCurrent([FromQuery(Name = "q")] string[] locationQueries)
         {
             try
             {
