@@ -39,12 +39,14 @@ namespace MultiWeather.Services.WeatherApiService
             var locations = searchResponse ?? [];
             foreach (var location in locations)
             {
+                string[] nameElements = [location.Name, location.Region, location.Country];
+                var fullNameArray = nameElements.Where(part => !string.IsNullOrEmpty(part)).ToArray();
                 var getLocationResponse = new SearchLocationResponse
                 {
                     Latitude = location.Latitude,
                     Longitude = location.Longitude,
                     ShortName = location.Name,
-                    FullName = string.Join(", ", [location.Name, location.Region, location.Country]),
+                    FullName = string.Join(", ", fullNameArray),
                 };
 
                 responseList.Add(getLocationResponse);
