@@ -1,11 +1,6 @@
 using MultiWeather.Services.WeatherApiService;
 using MultiWeather.Utilities;
 
-// Load .env
-var root = Directory.GetCurrentDirectory();
-var dotenv = Path.Combine(root, ".env");
-DotEnv.Load(dotenv); 
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -23,9 +18,14 @@ builder.Services.AddCors(options =>
         });
 });
 
-// Add Swagger dependencies in development
 if (builder.Environment.IsDevelopment())
 {
+    // Load .env
+    var root = Directory.GetCurrentDirectory();
+    var dotenv = Path.Combine(root, ".env");
+    DotEnv.Load(dotenv); 
+
+    // Add Swagger dependencies
     builder.Services.AddEndpointsApiExplorer();
     builder.Services.AddSwaggerGen();
 }
