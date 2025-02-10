@@ -13,7 +13,7 @@ builder.Services.AddControllers();
 builder.Services.AddSingleton<WeatherApiCache>();
 
 // Add CORS origin depending on environment
-var origin = builder.Environment.IsDevelopment() ? "http://localhost:5173" : "https://jennifercadams.github.io/";
+var origin = builder.Environment.IsDevelopment() ? "http://localhost:5173" : "https://jennifercadams.github.io";
 builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(
