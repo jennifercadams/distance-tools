@@ -42,8 +42,6 @@ namespace MultiWeather.Services.WeatherApiService
                 var fullNameArray = nameElements.Where(part => !string.IsNullOrEmpty(part)).ToArray();
                 var getLocationResponse = new SearchLocationResponse
                 {
-                    Latitude = location.Latitude,
-                    Longitude = location.Longitude,
                     ShortName = location.Name,
                     FullName = string.Join(", ", fullNameArray),
                 };
