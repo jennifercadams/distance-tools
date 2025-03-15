@@ -4,9 +4,6 @@ namespace MultiWeather.Models.WeatherApi
 {
     public class Location
     {
-        [JsonPropertyName("id")]
-        public int? Id { get; set; }
-
         [JsonPropertyName("lat")]
         public decimal Latitude { get; set; }
 
