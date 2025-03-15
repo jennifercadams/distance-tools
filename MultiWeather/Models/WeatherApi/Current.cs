@@ -10,7 +10,7 @@ namespace MultiWeather.Models.WeatherApi
 
         [JsonInclude]
         [JsonPropertyName("last_updated")]
-        private string _rawLastUpdated { get; set; }
+        private string _rawLastUpdated { get; set; } = "";
 
         [JsonIgnore]
         public DateTime LastUpdated
@@ -116,5 +116,11 @@ namespace MultiWeather.Models.WeatherApi
 
         [JsonPropertyName("gust_kph")]
         public decimal WindGustKph { get; set; }
+
+        [JsonPropertyName("vis_km")]
+        public decimal VisibilityKm { get; set; }
+
+        [JsonPropertyName("vis_miles")]
+        public decimal VisibilityMi { get; set; }
     }
 }
