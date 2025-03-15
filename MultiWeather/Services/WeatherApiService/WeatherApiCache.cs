@@ -16,7 +16,7 @@ namespace MultiWeather.Services.WeatherApiService
             Task.Run(StartCacheCleanUpTask);
         }
 
-        public GetCurrentResponse? Get(string key)
+        public GetForecastResponse? Get(string key)
         {
             if (!Entries.TryGetValue(key, out WeatherApiCacheEntry? value) || value == null)
                 return null;
@@ -30,7 +30,7 @@ namespace MultiWeather.Services.WeatherApiService
             return value.Response;
         }
 
-        public void Set(string key, GetCurrentResponse value)
+        public void Set(string key, GetForecastResponse value)
         {
             var expiration = DateTime.Now.AddMinutes(ExpInMinutes);
             var entry = new WeatherApiCacheEntry(value, expiration);

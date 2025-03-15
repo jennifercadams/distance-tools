@@ -39,12 +39,12 @@ namespace MultiWeather.Controllers
         }
 
         [HttpGet]
-        [Route("GetCurrent")]
-        public async Task<ContentResult> GetCurrent([FromQuery(Name = "q")] string[] locationQueries)
+        [Route("GetForecast")]
+        public async Task<ContentResult> GetForecast([FromQuery(Name = "q")] string[] locationQueries)
         {
             try
             {
-                var response = await _weatherApiService.GetCurrentAsync(locationQueries);
+                var response = await _weatherApiService.GetForecastAsync(locationQueries);
                 var jsonResponse = JsonSerializer.Serialize(response);
                 return new ContentResult
                 {

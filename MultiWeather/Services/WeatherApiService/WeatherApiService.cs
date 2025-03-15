@@ -53,9 +53,9 @@ namespace MultiWeather.Services.WeatherApiService
 
         }
 
-        public async Task<List<GetCurrentResponse>> GetCurrentAsync(string[] locationQueries)
+        public async Task<List<GetForecastResponse>> GetForecastAsync(string[] locationQueries)
         {
-            var responseList = new List<GetCurrentResponse>();
+            var responseList = new List<GetForecastResponse>();
 
             foreach (var locationQuery in locationQueries)
             {
@@ -66,42 +66,43 @@ namespace MultiWeather.Services.WeatherApiService
                     continue;
                 }
 
-                var getCurrentResponse = await SendCurrentRequestAsync(locationQuery);
+                var getForecastResponse = await SendForecastRequestAsync(locationQuery);
 
-                _cache.Set(locationQuery, getCurrentResponse);
+                _cache.Set(locationQuery, getForecastResponse);
 
-                responseList.Add(getCurrentResponse);
+                responseList.Add(getForecastResponse);
             }
 
             return responseList;
         }
 
-        private async Task<GetCurrentResponse> SendCurrentRequestAsync(string locationQuery)
+        private async Task<GetForecastResponse> SendForecastRequestAsync(string locationQuery)
         {
-            var path = $"current.json?key={_apiKey}&q={locationQuery}";
+            var path = $"forecast.json?key={_apiKey}&q={locationQuery}&days=1";
 
             var response = await _httpClient.GetAsync(path);
             var responseBody = await response.Content.ReadAsStringAsync();
-            var currentResponse = JsonSerializer.Deserialize<CurrentResponse>(responseBody);
+            var forecastResponse = JsonSerializer.Deserialize<ForecastResponse>(responseBody);
 
-            if (currentResponse?.Error != null && currentResponse.Error.Code != (int)ErrorCodes.LocationNotFound)
+            if (forecastResponse?.Error != null && forecastResponse.Error.Code != (int)ErrorCodes.LocationNotFound)
             {
                 throw new RequestFailedException(responseBody);
             }
 
-            var getCurrentResponse = new GetCurrentResponse
+            var getForecastResponse = new GetForecastResponse
             {
                 LocationQuery = locationQuery,
-                LocationFound = currentResponse?.Location != null,
-                LocationName = currentResponse?.Location?.Name,
-                TimeZone = currentResponse?.Location?.TimeZone,
-                ConditionText = currentResponse?.Current?.Condition.Text,
-                ConditionIcon = currentResponse?.Current?.Condition.Icon,
-                TempC = currentResponse?.Current?.TempC,
-                TempF = currentResponse?.Current?.TempF,
+                LocationFound = forecastResponse?.Location != null,
+                LocationName = forecastResponse?.Location?.Name,
+                TimeZone = forecastResponse?.Location?.TimeZone,
+                ConditionText = forecastResponse?.Current?.Condition.Text,
+                ConditionIcon = forecastResponse?.Current?.Condition.Icon,
+                CurrentTemp = forecastResponse?.Current?.TempC,
+                MaxTemp = forecastResponse?.Forecast?.Days?.FirstOrDefault()?.Day?.MaxTempC,
+                MinTemp = forecastResponse?.Forecast?.Days?.FirstOrDefault()?.Day?.MinTempC
             };
 
-            return getCurrentResponse;
+            return getForecastResponse;
         }
 
     }

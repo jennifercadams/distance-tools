@@ -5,7 +5,7 @@ Accept: application/json
 
 ###
 
-GET {{MultiWeather_HostAddress}}/MultiWeather/GetCurrent
+GET {{MultiWeather_HostAddress}}/MultiWeather/GetForecast
 Accept: application/json
 
 ###

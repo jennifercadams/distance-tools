@@ -2,9 +2,9 @@
 
 namespace MultiWeather.Services.WeatherApiService
 {
-    public class WeatherApiCacheEntry(GetCurrentResponse value, DateTime expiration)
+    public class WeatherApiCacheEntry(GetForecastResponse value, DateTime expiration)
     {
-        public GetCurrentResponse Response { get; private set; } = value;
+        public GetForecastResponse Response { get; private set; } = value;
         private DateTime Expiration { get; set; } = expiration;
         public bool IsExpired
         {
