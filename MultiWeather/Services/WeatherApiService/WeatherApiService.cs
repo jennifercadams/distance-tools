@@ -89,6 +89,8 @@ namespace MultiWeather.Services.WeatherApiService
                 throw new RequestFailedException(responseBody);
             }
 
+            var conditionIconLarge = forecastResponse?.Current?.Condition.Icon.Replace("64x64", "128x128");
+
             var getForecastResponse = new GetForecastResponse
             {
                 LocationQuery = locationQuery,
@@ -96,7 +98,7 @@ namespace MultiWeather.Services.WeatherApiService
                 LocationName = forecastResponse?.Location?.Name,
                 TimeZone = forecastResponse?.Location?.TimeZone,
                 ConditionText = forecastResponse?.Current?.Condition.Text,
-                ConditionIcon = forecastResponse?.Current?.Condition.Icon,
+                ConditionIcon = conditionIconLarge,
                 CurrentTemp = forecastResponse?.Current?.TempC,
                 MaxTemp = forecastResponse?.Forecast?.Days?.FirstOrDefault()?.Day?.MaxTempC,
                 MinTemp = forecastResponse?.Forecast?.Days?.FirstOrDefault()?.Day?.MinTempC
