@@ -100,8 +100,15 @@ namespace MultiWeather.Services.WeatherApiService
                 ConditionText = forecastResponse?.Current?.Condition.Text,
                 ConditionIcon = conditionIconLarge,
                 CurrentTemp = forecastResponse?.Current?.TempC,
+                FeelsLike = forecastResponse?.Current?.FeelsLikeC,
                 MaxTemp = forecastResponse?.Forecast?.Days?.FirstOrDefault()?.Day?.MaxTempC,
-                MinTemp = forecastResponse?.Forecast?.Days?.FirstOrDefault()?.Day?.MinTempC
+                MinTemp = forecastResponse?.Forecast?.Days?.FirstOrDefault()?.Day?.MinTempC,
+                WillItRain = forecastResponse?.Forecast?.Days?.FirstOrDefault()?.Day?.WillItRain,
+                ChanceOfRain = forecastResponse?.Forecast?.Days?.FirstOrDefault()?.Day?.ChanceOfRain,
+                TotalPrecipMm = forecastResponse?.Forecast?.Days?.FirstOrDefault()?.Day?.TotalPrecipMm,
+                WillItSnow = forecastResponse?.Forecast?.Days?.FirstOrDefault()?.Day?.WillItSnow,
+                ChanceOfSnow = forecastResponse?.Forecast?.Days?.FirstOrDefault()?.Day?.ChanceOfSnow,
+                TotalSnowCm = forecastResponse?.Forecast?.Days?.FirstOrDefault()?.Day?.TotalSnowCm
             };
 
             return getForecastResponse;
