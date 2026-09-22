@@ -5,6 +5,8 @@
         public required string LocationQuery { get; set; }
         public required bool LocationFound { get; set; }
         public string? LocationName { get; set; }
+        public string? Region { get; set; }
+        public string? Country { get; set; }
         public string? TimeZone { get; set; }
         public string? ConditionText { get; set; }
         public string? ConditionIcon { get; set; }

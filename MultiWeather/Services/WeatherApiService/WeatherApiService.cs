@@ -96,6 +96,8 @@ namespace MultiWeather.Services.WeatherApiService
                 LocationQuery = locationQuery,
                 LocationFound = forecastResponse?.Location != null,
                 LocationName = forecastResponse?.Location?.Name,
+                Region = forecastResponse?.Location?.Region,
+                Country = forecastResponse?.Location?.Country,
                 TimeZone = forecastResponse?.Location?.TimeZone,
                 ConditionText = forecastResponse?.Current?.Condition.Text,
                 ConditionIcon = conditionIconLarge,
